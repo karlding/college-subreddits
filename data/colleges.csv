@@ -1,0 +1,499 @@
+rowid,name,subreddit
+1,"Aberystwyth University",aberystwyth
+2,"Texas A&amp;M",aggies
+3,"Algonquin College",Algonquin_College
+4,"University of Louisville",AllHail
+5,"Amarillo College",amarillocollege
+6,"American University",americanu
+7,"Anderson University",AndersonUniversity
+8,"Australian National University",anu
+9,"Appalachian State University",appstate
+10,"Azusa Pacific University",apu
+11,"Aquinas College",aquinas
+12,"Arkansas State University",ArkansasState
+13,"Arizona State University",asu
+14,"Ohio University",athensohio
+15,"Babson College",Babson
+16,"Ball State University",ballstate
+17,"Baruch College",baruch
+18,"Baylor University",baylor
+19,"British Columbia Institute of Technology",BCIT
+20,"Berea College",Berea
+21,"University of California - Berkeley",berkeley
+22,"Berklee College",Berklee
+23,"Bowling Green State University",bgsu
+24,"Binghamton University",binghamtonuniversity
+25,"Biola University",Biola
+26,"Boston College",bostoncollege
+27,"Boston University",BostonU
+28,"Bournemouth University",BournemouthUni
+29,"Bowdoin College",Bowdoin
+30,"Brandeis University",brandeis
+31,"Brock University",brocku
+32,"Broward College",Broward
+33,"Brown University",BrownU
+34,"Boise State University",bsu
+35,"Bucknell University",bucknell
+36,"Butler University",butleruniversity
+37,"California Polytechnic State University",CalPoly
+38,"California Polytechnic State University - Pomona",CalPolyPomona
+39,"California Institute Of Technology",Caltech
+40,"California University of Pennsylvania",calupa
+41,"University of Cambridge",cambridge_uni
+42,"University of Alabama",capstone
+43,"Capilano University",CapU
+44,"Carleton College",carletoncollege
+45,"Carleton University",CarletonU
+46,"California College of the Arts, San Francisco",cca
+47,"Canterbury Christ Church University",CCCU
+48,"Coastal Carolina University",CCU
+49,"Central Michigan University",centralmich
+50,"Chapman University",chapmanuniversity
+51,"City University London",cityuniversitylondon
+52,"Claremont Colleges",claremontcolleges
+53,"Clark University",ClarkU
+54,"Clemson University",clemson
+55,"Carnegie Mellon University",cmu
+56,"College of Charleston",CofC
+57,"Colgate University",colgate
+58,"Colorado School of Mines",ColoradoSchoolOfMines
+59,"Columbia College",colum
+60,"Columbia University",columbia
+61,"Concordia University",Concordia
+62,"Connecticut College",conncoll
+63,"Cornell University",Cornell
+64,"Coventry University",CovUni
+65,"California State University - Chico",CSUC
+66,"California State University - Channel Islands",csuci
+67,"California State University - Dominguez Hills",CSUDH
+68,"California State University - East Bay",CSUEB
+69,"California State University - Fullerton",csuf
+70,"Colorado State University",CSUFoCo
+71,"California State University - Los Angeles",CSULA
+72,"California State University - Long Beach",csulb
+73,"California State University - Monterey Bay",CSUMB
+74,"California State University - Northridge",csun
+75,"California State University - Sacramento",CSUS
+76,"California State University - San Bernardino",CSUSB
+77,"California State University - San Marcos",csusm
+78,"University of Colorado - Boulder",cuboulder
+79,"University of Colorado - Auraria",cudenver
+80,"City University of New York (CUNY)",CUNY
+81,"Curtin University",Curtin
+82,"Case Western Reserve University",cwru
+83,"Dalhousie University",Dalhousie
+84,"Dartmouth College",dartmouth
+85,"Davidson College",davidsoncollege
+86,"Denison University",Denison
+87,"Depaul University",depaul
+88,"DePauw University",depauw
+89,"Devry University",devry
+90,"Digipen Institute of Technology",digipen
+91,"Drexel University",Drexel
+92,"Duke University",duke
+93,"Diablo Valley College",DVC
+94,"Earlham College",earlhamcollege
+95,"Eastern Connecticut State University",ecsu
+96,"Emerson College",emersoncollege
+97,"Emory University",emory
+98,"Embry-Riddle Aeronautical University",erau
+99,"University of Essex",essexuni
+100,"École de Technologie Supérieure",etsmtl
+101,"Evergreen State College",evergreen
+102,"The Evergreen State College",evergreen
+103,"Eastern Washington University",ewu
+104,"University of Exeter",exe
+105,"Fairfield University",fairfieldU
+106,"Franklin &amp; Marshall College",fandm
+107,"Fanshawe College",fanshawe
+108,"Florida Atlantic University",fau
+109,"Florida Gulf Coast University",FGCU
+110,"Florida Institute of Technology",fit
+111,"Florida International University",fiu
+112,"Flagler College",FlaglerCollege
+113,"Folsom Lake College",flc
+114,"Fontbonne University",fontbonne
+115,"Fordham University",fordham
+116,"California State University - Fresno",fresnostate
+117,"Fresno State",fresnostate
+118,"Florida State University",fsu
+119,"Furman University",Furman
+120,"University of South Carolina",gamecocks
+121,"Georgia State University",GaState
+122,"Georgia Institute of Technology",gatech
+123,"Gulf Coast State College",gcsc
+124,"Georgia College and State University",gcsu
+125,"University of Ottawa",geegees
+126,"Georgetown University",georgetown
+127,"Grant MacEwan University",gmacewan
+128,"George Mason University",gmu
+129,"Goldsmiths University",goldsmiths
+130,"Gonzaga University",gonzaga
+131,"Pennsylvania College of Technology",gopct
+132,"Greenville College",greenvillecollege
+133,"Griffith University",griffithuni
+134,"Grinnell College",Grinnell
+135,"Grossmont College",grossmont
+136,"Georgia Southern University",GSU
+137,"University of Guelph-Humber",guelphhumber
+138,"Gustavus Adolphus College",gustavus
+139,"Grand Valley State University",gvsu
+140,"George Washington University",gwu
+141,"Hamilton College",hamiltoncollege
+142,"Hampshire College",HampshireCollege
+143,"Harford Community College",HarfordCC
+144,"Harvard University",harvard
+145,"Harvey Mudd College",harveymudd
+146,"Henderson State University",HendersonState
+147,"Hillsdale College",hillsdale
+148,"College of the Holy Cross",HolyCross
+149,"Holy Cross",HolyCross
+150,"Houston Community College",HoustonCC
+151,"Humber College",Humber
+152,"Humboldt State University",humboldtstate
+153,"Hunter College",HunterCollege
+154,"Iowa State University",iastate
+155,"Illinois Institute of Technology",iit
+156,"Illinois Wesleyan University",IllinoisWesleyan
+157,"Illinois State University",ilstu
+158,"Imperial College London",imperial
+159,"Indiana University",IndianaUniversity
+160,"Ithaca College",ithacacollege
+161,"Indiana University of Pennsylvania",IUP
+162,"John Carroll University",JCU
+163,"Johns Hopkins University",JHU
+164,"James Madison University",JMU
+165,"Juniata College",juniatacollege
+166,"King's College - London",KCL
+167,"Kent State University",kentstateuniversity
+168,"Kettering University",kettering
+169,"Kansas State University",kstate
+170,"Kennesaw State University",ksu
+171,"Lakehead University",LakeheadU
+172,"Lawrence University",lawrenceu
+173,"University of Leeds",LeedsUni
+174,"Lehigh University",lehigh
+175,"University of Lincoln",LincolnUni
+176,"Loyola Marymount University",LMU
+177,"Longwood University",longwood
+178,"Louisiana Tech University",louisianatech
+179,"Louisiana State University",LSU
+180,"Loughborough University",lufbra
+181,"Luther College Iowa",luther
+182,"Lyon College",LyonCollege
+183,"Macon State College",Macon_State
+184,"Macquarie University",MacUni
+185,"Marist College",marist
+186,"Marlboro College",marlborocollege
+187,"Marquette University",Marquette
+188,"Marshall University",marshalluniversity
+189,"Milwaukee Area Technical College",matc
+190,"Mayfield College",MayfieldCollege
+191,"McGill University",mcgill
+192,"McKendree University",McKendree_University
+193,"Miami University - Oxford",miamioh
+194,"Massachusetts Institute of Technology",MIT
+195,"University of Missouri-Columbia (Mizzou)",Mizzou
+196,"Manchester Metropolitan University (Manchester, UK)",MMU
+197,"Mohawk College",mohawkcollege
+198,"University of Montevallo",Montevallo
+199,"Mountain State University",MountainState
+200,"Monterey Peninsula College",mpc
+201,"Metropolitan State College of Denver",MSCD
+202,"Milwaukee School of Engineering",MSOE
+203,"Mississippi State University",msstate
+204,"Michigan State University",MSU
+205,"Montana State University",MSUcats
+206,"Mt San Jacinto College ",MtSanJacintoCollege
+207,"Middle Tennessee State University",mtsu
+208,"Michigan Technological University",MTU
+209,"Murdoch University",murdoch
+210,"Murray State University",murray
+211,"Northern Arizona University",NAU
+212,"North Carolina State University",ncsu
+213,"North Dakota State University",NDSU
+214,"Northeastern University",NEU
+215,"Neumont University",neumont
+216,"Northern Illinois University",NIU
+217,"New Jersey Institute Of Technology",njtech
+218,"Northern Kentucky Univeristy",NKU
+219,"New Mexico State University",nmsu
+220,"New Mexico Institute of Mining and Technology",nmt
+221,"Northwestern University",Northwestern
+222,"University of Notre Dame",notredame
+223,"Nicholls State University",NSU
+224,"Norwegian University of Science and Technology (NTNU)",ntnu
+225,"National University of Singapore",NUSSingapore
+226,"New York University - NYU",nyu
+227,"Oberlin College",oberlin
+228,"Orange Coast College",OCC
+229,"Oklahoma City University",OCU
+230,"Old Dominion University",odu
+231,"Oklahoma State University",OKState
+232,"University of Mississippi",olemiss
+233,"Olin College",olin
+234,"Oregon State University",OregonStateUniv
+235,"Ohio State University",OSU
+236,"State University of New York at Oswego - SUNY",oswego
+237,"Otterbein College",otterbein
+238,"Oxford Brookes University",oxfordbrookes
+239,"University of Oxford",oxforduni
+240,"Occidental College",Oxy
+241,"Pace University",pace
+242,"Parkland College",parklandcollege
+243,"Penn State University",PennStateUniversity
+244,"Pepperdine University",Pepperdine
+245,"University of the Philippines",peyups
+246,"University of Pittsburgh",Pitt
+247,"Pacific Lutheran University",plu
+248,"Polk State College",PolkStateCollege
+249,"Pomona College",pomonacollege
+250,"Portland State University",portlandstate
+251,"Princeton University",princeton
+252,"Providence College",ProvidenceCollege
+253,"Pontificia Universidad Catolica de Chile",PUC
+254,"Purdue University",purdue
+255,"Queen Mary University of London - Barts",qmulandbarts
+256,"Queen's University",queensuniversity
+257,"Quinnipiac University",Quinnipiac
+258,"Queensland University of Technology",QUTreddit
+259,"Radford University",radforduniversity
+260,"Riverside Community College",RCC
+261,"Reed College",reedcollege
+262,"Rice University",riceuniversity
+263,"Richard Stockton College of New Jersey",RichardStockton
+264,"Rochester Institute of Technology (RIT)",rit
+265,"Roosevelt University",roosevelt
+266,"Rose Hulman Institue",rosehulman
+267,"Rowan University",rowanuniversity
+268,"Rensselaer Polytechnic Institute",RPI
+269,"Rutgers University",rutgers
+270,"Ryerson University",ryerson
+271,"Southern Alberta Institute of Technology(SAIT)",sait
+272,"Stony Brook University - SUNY",sbu
+273,"Savannah College of Art and Design",scad
+274,"Scripps College",scrippscollege
+275,"Santa Clara University (SCU)",scu
+276,"South Dakota School of Mines and Tech (SDSM&amp;T)",SDSMT
+277,"San Diego State University",SDSU
+278,"Seattle University (SU)",seattleu
+279,"Southeast Missouri State University",semo
+280,"Seneca College in Toronto",Seneca
+281,"Stephen F. Austin State University",sfa
+282,"San Francisco State University",sfsu
+283,"Sheridan College",sheridan
+284,"Shippensburg University (SUP)",ship
+285,"Sam Houston State University",SHSU
+286,"Seton Hall University (SHU)",shu
+287,"Siena College",siena
+288,"Sierra College",SierraCollege
+289,"Simon Fraser University (SFU)",simonfraser
+290,"Southern Illinois University",SIU
+291,"Southern Illinois University Edwardsville",SIUE
+292,"San Jose State University",SJSU
+293,"Saint Joseph's University (SJU)",sju
+294,"Salt lake Community College",SLCC
+295,"Southern Methodist University",smu
+296,"School of Oriental and African Studies",soas
+297,"University of Oklahoma",sooners
+298,"St. Petersburg College",Spc
+299,"Southern Polytechnic State University",spsu
+300,"Sonoma State University",ssu
+301,"University of Saint Andrews",standrews
+302,"Stanford University",stanford
+303,"Saint Edwards University",StEdwards
+304,"Stevens Institute of Technology",stevens
+305,"Saint Francis Xavier University (STFX)",stfx
+306,"St. John's College",stjohnscollege
+307,"Saint Olaf College",stolaf
+308,"Saint Thomas (Houston)",stthomas
+309,"University of St. Thomas - Houston",stthomas
+310,"School of Visual Arts (SVA)",sva
+311,"Saginaw Valley State University",svsu
+312,"Swansea University",swanseauni
+313,"Syracuse University",syracuseu
+314,"University of North Carolina Chapel Hill",tarheels
+315,"Tarleton State University",tarleton
+316,"Taylor University",tayloruniversity
+317,"Trinity College, Dublin",TCD
+318,"The College of New Jersey",TCNJ
+319,"Texas Christian University",TCU
+320,"Tecnológico de Costa Rica",teccr
+321,"Teesside University",TeessideUniversity
+322,"Temple University",temple
+323,"Thomas Edison State College",TESC
+324,"Texas Tech University",texastech
+325,"Boston Architectural College",thebac
+326,"University of San Diego",toreros
+327,"Touro University",Touro
+328,"Towson University",towson
+329,"Trinity University",TrinityU
+330,"Troy University",TroyU
+331,"Tennessee State University",tsu
+332,"Technische Universität Darmstadt",tud
+333,"Tufts University",Tufts
+334,"Tulane University",Tulane
+335,"Texas State University",txstate
+336,"University of Alabama at Birmingham",uab
+337,"University of Alabama at Huntsville",uah
+338,"University at Albany - SUNY",ualbany
+339,"University of Alberta",ualberta
+340,"University of Baltimore",UBALTIMORE
+341,"University of British Columbia",UBC
+342,"University at Buffalo - SUNY",ubreddit
+343,"University of Central Arkansas",UCA
+344,"University of Colorado - Colorado Springs",UCCS
+345,"University of California - Davis",ucdavis
+346,"University of Central Florida",ucf
+347,"University of Chicago",uchicago
+348,"University of California - Irvine",uci
+349,"University of Cincinnati",uCinci
+350,"University College London (UCL)",ucl
+351,"University of California - Los Angeles",ucla
+352,"University of California - Merced",ucmerced
+353,"University of Central Oklahoma",UCO
+354,"University of Connecticut",UCONN
+355,"University of California - Riverside",ucr
+356,"Universidad de Costa Rica",ucrcr
+357,"University of California - Santa Barbara",ucsantabarbara
+358,"University of California - Santa Cruz",ucsc
+359,"University of California - San Diego",ucsd
+360,"University of Cape Town",UCT
+361,"University of Delaware",udel
+362,"Université de Montréal",UdeM
+363,"University of Washington",udub
+364,"University of Florida",UFL
+365,"University of the Fraser Valley",UFV
+366,"University of Georgia",UGA
+367,"University of Hartford",UHart
+368,"University of Houston-Downtown",UHD
+369,"University of Illinois at Chicago",uicwhatshot
+370,"University of Iowa",uiowa
+371,"University of Illinois at Urbana-Champaign",uiuc
+372,"University of Louisiana-Lafayette",ull
+373,"University of Maine",umaine
+374,"University of Manitoba",umanitoba
+375,"University of Massachusetts-Amherst",umass
+376,"University of Massachusetts-Dartmouth",umassd
+377,"University of Maryland-Baltimore County",UMBC
+378,"University of Maryland",UMD
+379,"University of Miami",umiami
+380,"University of Missouri: Kansas City",UMKC
+381,"University of Massachusetts-Lowell",uml
+382,"University of Montana",UMT
+383,"University of Mary Washington",UMW
+384,"University of North Carolina Charlotte",UNCCharlotte
+385,"University of North Carolina Greensboro",UNCG
+386,"University of North Carolina Wilmington",UNCW
+387,"University of North Dakota",und
+388,"University of North Florida",UNF
+389,"University of New Hampshire",unh
+390,"University of Northern Iowa",uni
+391,"University of Pisa",unipi
+392,"University of Arkansas",UniversityofArkansas
+393,"University of Hawaii",UniversityofHawaii
+394,"University of Houston",UniversityOfHouston
+395,"University of Kansas",UniversityofKansas
+396,"University of Kentucky",universityofkentucky
+397,"University of Limerick",universityoflimerick
+398,"University of Redlands",universityofredlands
+399,"University of Scranton",universityofscranton
+400,"University of Toledo",UniversityOfToledo
+401,"University of Vermont",UniversityofVermont
+402,"University of Warwick",UniversityOfWarwick
+403,"University of York",universityofyork
+404,"University of Nebraska-Lincoln",UNLincoln
+405,"University of Nevada, Las Vegas",UNLV
+406,"University of New Mexico",unm
+407,"University of Nevada, Reno",UNR
+408,"University of New South Wales",unsw
+409,"University of North Texas",UNT
+410,"University of Bristol",UOB
+411,"University of Edinburgh",uoe
+412,"University of Arizona",UofArizona
+413,"University of Birmingham (UK)",UofB
+414,"University of Dayton",uofdayton
+415,"University of Idaho",uofi
+416,"University of Michigan",uofm
+417,"University of Memphis",UofMemphis
+418,"University of Minnesota",uofmn
+419,"University of Minnesota Duluth",UofMnDuluth
+420,"University of Toronto",UofT
+421,"University of Utah",uofu
+422,"University of Guelph",uoguelph
+423,"Durham College",uoit
+424,"University of Ontario Institute of Technology",uoit
+425,"University of the Pacific",UoP
+426,"University of Sheffield",uos
+427,"Otago University",uotago
+428,"University of Pennsylvania",upenn
+429,"University of Queensland",uqreddit
+430,"University of Rochester",urochester
+431,"Universidad de San Carlos de Guatemala",USAC
+432,"University of Saskatchewan",usask
+433,"University of Southern California",USC
+434,"University of South Florida",usf
+435,"University of San Francisco",usfca
+436,"Université de Sherbrooke",usherbrooke
+437,"University of Southern Indiana",USI
+438,"United States Naval Academy",usna
+439,"University of Sydney",usyd
+440,"University of Texas - Austin",UTAustin
+441,"University of Texas - Dallas",utdallas
+442,"University of Texas - El Paso",UTEP
+443,"University of Tennessee - Knoxville",UTK
+444,"University of Texas - Pan-American",UTPA
+445,"University of Technology, Sydney",uts
+446,"University of Texas - San Antonio",UTSA
+447,"University of Texas - Tyler",UTT
+448,"University of Tulsa",utulsa
+449,"University of Virginia",UVA
+450,"University of Victoria",uvic
+451,"Utah Valley University",uvu
+452,"University of Waterloo",uwaterloo
+453,"University of Washington | Bothell",uwb
+454,"University of Wisconsin - Eau Claire",uweauclaire
+455,"University of West Georgia",uwg
+456,"University of Wisconsin Green Bay",uwgb
+457,"University of Wisconsin Madison",UWMadison
+458,"University of Wisconsin Milwaukee",UWMilwaukee
+459,"University of Western Ontario",uwo
+460,"University of Wisconsin Whitewater",UWWhitewater
+461,"University of Wyoming",uwyo
+462,"Vanderbilt University",Vanderbilt
+463,"Vassar College",Vassar
+464,"Ventura County Community Colleges",vcccd
+465,"Virginia Commonwealth University",VCU
+466,"Villanova University",Villanova
+467,"Virginia Tech",VirginiaTech
+468,"Vancouver Island University",VIU
+469,"Vrije Universiteit Brussel",VUB
+470,"Wake Tech",WakeTech
+471,"Washington University in St. Louis",washu
+472,"Wayne State University",waynestate
+473,"Western Connecticut State University",wcsu
+474,"Western Carolina University",wcu
+475,"West Chester University",wcupa
+476,"Wellesley College",wellesleycollege
+477,"Wesleyan University",wesleyan
+478,"West Liberty University",westliberty
+479,"Westminster College SLC",WestminsterCollege
+480,"Westmont College In Santa Barbara",Westmont
+481,"Wake Forest University",wfu
+482,"Western Governors University",WGU
+483,"Wheaton College (IL)",wheaton
+484,"Widener University",widener
+485,"William and Mary",williamandmary
+486,"Williams College",williamscollege
+487,"Wentworth Institute of Technology",WIT
+488,"Western Kentucky University",WKU
+489,"Wilfrid Laurier University",wlu
+490,"William Woods University",WoodsWay
+491,"Worcester Polytechnic Institute",wpi
+492,"Wright State University (OH)",wrightstate
+493,"Washington State University",wsu
+494,"West Texas A&amp;M University",wtamu
+495,"West Virginia Univeristy",WVU
+496,"Western Washington University",WWU
+497,"Yale University",yale
+498,"York University in Toronto",yorku

@@ -62,7 +62,7 @@ name,location,subreddit
 "City University London","London, England, United Kingdom",cityuniversitylondon
 "City University of New York (CUNY)","New York City, New York, United States",CUNY
 "Claremont Colleges","Claremont, California, United States",claremontcolleges
-"Clark University","Worcester, MA, USA",ClarkU
+"Clark University","Worcester, MA, United States",ClarkU
 "Clemson University","Clemson, South Carolina, United States",clemson
 "Coastal Carolina University","Conway, South Carolina, United States",CCU
 "Colgate University","Hamilton Village, Hamilton, New York, United States",colgate
@@ -71,7 +71,7 @@ name,location,subreddit
 "Colorado School of Mines","Golden, Colorado, United States",ColoradoSchoolOfMines
 "Colorado State University","Fort Collins, Colorado, United States",CSUFoCo
 "Columbia College","Chicago, Illinois, United States",colum
-"Columbia University","Manhattan, New York, NY, USA",columbia
+"Columbia University","Manhattan, New York, NY, United States",columbia
 "Concordia University","Montreal, Quebec, Canada",Concordia
 "Connecticut College","New London, Connecticut, United States",conncoll
 "Cornell University","Ithaca, New York, United States",Cornell

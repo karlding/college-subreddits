@@ -19,7 +19,7 @@ tail -n+2 data/colleges.csv > data.csv && echo -e ".separator ","\nCREATE TABLE 
 
 ## Updating
 ```sql
-INSERT INTO subreddits (name, location, subreddit) VALUES ('Langara College', 'langara');
+INSERT INTO subreddits (name, location, subreddit) VALUES ('University of Waterloo', 'Waterloo, Ontario, Canada', 'uwaterloo');
 ```
 
 ## Export

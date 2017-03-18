@@ -65,14 +65,14 @@ name,location,subreddit
 "Clark University","Worcester, Massachusetts, United States",ClarkU
 "Clemson University","Clemson, South Carolina, United States",clemson
 "Coastal Carolina University","Conway, South Carolina, United States",CCU
-"Colgate University","Hamilton Village, Hamilton, New York, United States",colgate
+"Colgate University","Hamilton, New York, United States",colgate
 "College of Charleston","Charleston, South Carolina, United States",CofC
 "College of the Holy Cross","Worcester, Massachusetts, United States",HolyCross
 "Colorado School of Mines","Golden, Colorado, United States",ColoradoSchoolOfMines
 "Colorado State University","Fort Collins, Colorado, United States",CSUFoCo
 "Columbia College","Chicago, Illinois, United States",colum
 "Columbia University","New York City, New York, United States",columbia
-"Concordia University","Montreal, Quebec, Canada",Concordia
+"Concordia University","Montréal, Québec, Canada",Concordia
 "Connecticut College","New London, Connecticut, United States",conncoll
 "Cornell University","Ithaca, New York, United States",Cornell
 "Coventry University","Coventry, England, United Kingdom",CovUni
@@ -178,10 +178,10 @@ name,location,subreddit
 "Marshall University","Huntington, West Virginia, United States",marshalluniversity
 "Massachusetts Institute of Technology","Cambridge, Massachusetts, United States",MIT
 "Mayfield College","Mayfield, East Sussex, England, UK",MayfieldCollege
-"McGill University","Montreal, Quebec, Canada",mcgill
+"McGill University","Montréal, Québec, Canada",mcgill
 "McKendree University","Lebanon, Illinois, United States",McKendree_University
 "Metropolitan State College of Denver","Denver, Colorado, United States",MSCD
-"Miami University - Oxford","Oxford, OH, United States",miamioh
+"Miami University - Oxford","Oxford, Ohio, United States",miamioh
 "Michigan State University","East Lansing, Michigan, United States",MSU
 "Michigan Technological University","Houghton, Michigan, United States",MTU
 "Middle Tennessee State University","Murfreesboro, Tennessee, United States",mtsu
@@ -200,7 +200,7 @@ name,location,subreddit
 "New Jersey Institute Of Technology","Newark, New Jersey, United States",njtech
 "New Mexico Institute of Mining and Technology","Socorro, New Mexico, United States",nmt
 "New Mexico State University","Las Cruces, New Mexico, United States",nmsu
-"New York University - NYU","Greenwich Village , New York City, United States",nyu
+"New York University - NYU","New York City, New York, United States",nyu
 "Nicholls State University","Thibodaux, Louisiana, United States",NSU
 "North Carolina State University","Raleigh, North Carolina, United States",ncsu
 "North Dakota State University","Fargo, North Dakota, United States",NDSU
@@ -311,7 +311,7 @@ name,location,subreddit
 "Trinity College, Dublin","Dublin, Ireland",TCD
 "Trinity University","San Antonio, Texas, United States",TrinityU
 "Troy University","Troy, Alabama, United States",TroyU
-"Tufts University","Medford, MA, United States",Tufts
+"Tufts University","Medford, Massachusetts, United States",Tufts
 "Tulane University","New Orleans, Louisiana, United States",Tulane
 "United States Naval Academy","Annapolis, Maryland, United States",usna
 "Universidad de Costa Rica","San Pedro Montes de Oca, San JosÃ©, Costa Rica",ucrcr
@@ -348,7 +348,7 @@ name,location,subreddit
 "University of Colorado - Auraria","Denver, Colorado, United States",cudenver
 "University of Colorado - Boulder","Boulder, Colorado, United States",cuboulder
 "University of Colorado - Colorado Springs","Colorado Springs, Colorado, United States",UCCS
-"University of Connecticut","Storrs, Mansfield, CT, United States",UCONN
+"University of Connecticut","Mansfield, Connecticut, United States",UCONN
 "University of Dayton","Dayton, Ohio, United States",uofdayton
 "University of Delaware","Newark, Delaware, United States",udel
 "University of Edinburgh","Edinburgh, Scotland, UK",uoe
@@ -379,7 +379,7 @@ name,location,subreddit
 "University of Maryland","College Park, Maryland, United States",UMD
 "University of Maryland-Baltimore County","Baltimore, Maryland, United States",UMBC
 "University of Massachusetts-Amherst","Amherst, Massachusetts, United States",umass
-"University of Massachusetts-Dartmouth","Dartmouth, MA, United States",umassd
+"University of Massachusetts-Dartmouth","Dartmouth, Massachusetts, United States",umassd
 "University of Massachusetts-Lowell","Lowell, Massachusetts, United States",uml
 "University of Memphis","Memphis, Tennessee, United States",UofMemphis
 "University of Miami","Coral Gables, Florida, United States",umiami
@@ -450,7 +450,7 @@ name,location,subreddit
 "University of Waterloo","Waterloo, Ontario, Canada",uwaterloo
 "University of West Georgia","Carrollton, Georgia, United States",uwg
 "University of Western Ontario","London, Ontario, Canada",uwo
-"University of Wisconsin - Eau Claire","Eau Claire, WI, United States",uweauclaire
+"University of Wisconsin - Eau Claire","Eau Claire, Wisconsin, United States",uweauclaire
 "University of Wisconsin Green Bay","Green Bay, Wisconsin, United States",uwgb
 "University of Wisconsin Madison","Madison, Wisconsin, United States",UWMadison
 "University of Wisconsin Milwaukee","Milwaukee, Wisconsin, United States",UWMilwaukee
@@ -461,8 +461,8 @@ name,location,subreddit
 "University of the Fraser Valley","Abbotsford, British Columbia, Canada",UFV
 "University of the Pacific","Stockton, California, United States",UoP
 "University of the Philippines","Quezon City, Philippines",peyups
-"Université de Montréal","Montreal, Quebec, Canada",UdeM
-"Université de Sherbrooke","Sherbrooke, Quebec, Canada",usherbrooke
+"Université de Montréal","Montréal, Québec, Canada",UdeM
+"Université de Sherbrooke","Sherbrooke, Québec, Canada",usherbrooke
 "Utah Valley University","Orem, Utah, United States",uvu
 "Vancouver Island University","Nanaimo, British Columbia, Canada",VIU
 "Vanderbilt University","Nashville, Tennessee, United States",Vanderbilt
@@ -480,7 +480,7 @@ name,location,subreddit
 "Wellesley College","Wellesley, Massachusetts, United States",wellesleycollege
 "Wentworth Institute of Technology","Boston, Massachusetts, United States",WIT
 "Wesleyan University","Middletown, Connecticut, United States",wesleyan
-"West Chester University","West Chester, PA, United States",wcupa
+"West Chester University","West Chester, Pennsylvania, United States",wcupa
 "West Liberty University","West Liberty, West Virginia, United States",westliberty
 "West Texas A&M University","Canyon, Texas, United States",wtamu
 "West Virginia Univeristy","Morgantown, West Virginia, United States",WVU
@@ -500,4 +500,4 @@ name,location,subreddit
 "Wright State University (OH)","Fairborn, Ohio, United States",wrightstate
 "Yale University","New Haven, Connecticut, United States",yale
 "York University in Toronto","Toronto, Ontario, Canada",yorku
-"École de Technologie Supérieure","Montreal, Québec, Canada",etsmtl
+"École de Technologie Supérieure","Montréal, Québec, Canada",etsmtl

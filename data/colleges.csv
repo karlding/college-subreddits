@@ -41,7 +41,7 @@ name,location,subreddit
 "California State University - Dominguez Hills","Carson, California, United States",CSUDH
 "California State University - East Bay","Hayward, California, United States",CSUEB
 "California State University - Fresno","Fresno, California, United States",fresnostate
-"California State University - Fullerton","Fullerton, CA, United States",csuf
+"California State University - Fullerton","Fullerton, California, United States",csuf
 "California State University - Long Beach","Long Beach, California, United States",csulb
 "California State University - Los Angeles","University Hills, Los Angeles, California, United States",CSULA
 "California State University - Monterey Bay","Marina and Seaside, California, United States",CSUMB
@@ -62,7 +62,7 @@ name,location,subreddit
 "City University London","London, England, United Kingdom",cityuniversitylondon
 "City University of New York (CUNY)","New York City, New York, United States",CUNY
 "Claremont Colleges","Claremont, California, United States",claremontcolleges
-"Clark University","Worcester, MA, United States",ClarkU
+"Clark University","Worcester, Massachusetts, United States",ClarkU
 "Clemson University","Clemson, South Carolina, United States",clemson
 "Coastal Carolina University","Conway, South Carolina, United States",CCU
 "Colgate University","Hamilton Village, Hamilton, New York, United States",colgate
@@ -71,7 +71,7 @@ name,location,subreddit
 "Colorado School of Mines","Golden, Colorado, United States",ColoradoSchoolOfMines
 "Colorado State University","Fort Collins, Colorado, United States",CSUFoCo
 "Columbia College","Chicago, Illinois, United States",colum
-"Columbia University","Manhattan, New York, NY, United States",columbia
+"Columbia University","New York City, New York, United States",columbia
 "Concordia University","Montreal, Quebec, Canada",Concordia
 "Connecticut College","New London, Connecticut, United States",conncoll
 "Cornell University","Ithaca, New York, United States",Cornell
@@ -131,7 +131,7 @@ name,location,subreddit
 "Hampshire College","Amherst, Massachusetts, United States",HampshireCollege
 "Harford Community College","Churchville, Maryland, United States",HarfordCC
 "Harvard University","Cambridge, Massachusetts, United States",harvard
-"Harvey Mudd College","Claremont, CA, United States",harveymudd
+"Harvey Mudd College","Claremont, California, United States",harveymudd
 "Henderson State University","Arkadelphia, Arkansas, United States",HendersonState
 "Hillsdale College","Hillsdale, Michigan, United States",hillsdale
 "Houston Community College","Houston, Texas, United States.",HoustonCC
@@ -159,7 +159,7 @@ name,location,subreddit
 "Lakehead University","Thunder Bay, Ontario, Canada",LakeheadU
 "Langara College","Vancouver, British Columbia, Canada",langara
 "Lawrence University","Appleton, Wisconsin, United States",lawrenceu
-"Lehigh University","Bethlehem, PA, United States",lehigh
+"Lehigh University","Bethlehem, Pennsylvania, United States",lehigh
 "Liberty University","Lynchburg, Virginia, United States",LibertyUniversity
 "Linköping University","Linköping, Sweden",linkopinguniversity
 "Longwood University","Farmville, Virginia, United States",longwood
@@ -214,7 +214,7 @@ name,location,subreddit
 "Occidental College","Los Angeles, California, United States",Oxy
 "Ohio State University","Columbus, Ohio, United States",OSU
 "Ohio University","Athens, Ohio, United States",athensohio
-"Oklahoma City University","Oklahoma City, OK, United States",OCU
+"Oklahoma City University","Oklahoma City, Oklahoma, United States",OCU
 "Oklahoma State University","Tulsa, Oklahoma, United States",OKState
 "Old Dominion University","Norfolk, Virginia, United States",odu
 "Olin College","Needham, Massachusetts, United States",olin
@@ -245,7 +245,7 @@ name,location,subreddit
 "Rice University","Houston, Texas, United States",riceuniversity
 "Richard Stockton College of New Jersey","Galloway, New Jersey, United States",RichardStockton
 "Riverside Community College","Riverside, California, United States",RCC
-"Rochester Institute of Technology (RIT)","Henrietta, NY, United States",rit
+"Rochester Institute of Technology (RIT)","Henrietta, New York, United States",rit
 "Roosevelt University","Chicago, Illinois, United States",roosevelt
 "Rose Hulman Institue","Terre Haute, Indiana, United States",rosehulman
 "Rowan University","Glassboro, New Jersey, United States",rowanuniversity
@@ -264,7 +264,7 @@ name,location,subreddit
 "Santa Clara University (SCU)","Santa Clara, California, United States",scu
 "Savannah College of Art and Design","Savannah, Georgia, United States",scad
 "School of Oriental and African Studies","London, England, United Kingdom",soas
-"School of Visual Arts (SVA)","New York, NY, United States",sva
+"School of Visual Arts (SVA)","New York City, New York, United States",sva
 "Scripps College","Claremont, California, United States",scrippscollege
 "Seattle University (SU)","Seattle, Washington, United States",seattleu
 "Seneca College","Toronto, Ontario, Canada",Seneca
@@ -280,7 +280,7 @@ name,location,subreddit
 "Southern Alberta Institute of Technology(SAIT)","Calgary, Alberta, Canada",sait
 "Southern Illinois University","Carbondale, Edwardsville, Springfield, Illinois, United States",SIU
 "Southern Illinois University Edwardsville","Edwardsville, Illinois, United States",SIUE
-"Southern Methodist University","University Park, TX, United States",smu
+"Southern Methodist University","University Park, Texas, United States",smu
 "Southern Polytechnic State University","Marietta, Georgia, United States",spsu
 "St. John's College","Meadowbank, Auckland, New Zealand",stjohnscollege
 "St. Petersburg College","St. Petersburg, Florida, United States",Spc
@@ -288,7 +288,7 @@ name,location,subreddit
 "State University of New York at Oswego - SUNY","Oswego, New York, United States",oswego
 "Stephen F. Austin State University","Nacogdoches, Texas, United States",sfa
 "Stevens Institute of Technology","Hoboken, New Jersey, United States",stevens
-"Stony Brook University - SUNY","Stony Brook, NY, United States",sbu
+"Stony Brook University - SUNY","Stony Brook, New York, United States",sbu
 "Swansea University","Swansea, UK",swanseauni
 "Syracuse University","Syracuse, New York, United States",syracuseu
 "Tarleton State University","Stephenville, Texas, United States",tarleton
@@ -298,7 +298,7 @@ name,location,subreddit
 "Teesside University","Middlesbrough, England, UK",TeessideUniversity
 "Temple University","Philadelphia, Pennsylvania, United States",temple
 "Tennessee State University","Nashville, Tennessee, United States",tsu
-"Texas A&M","College Station, TX, United States",aggies
+"Texas A&M","College Station, Texas, United States",aggies
 "Texas Christian University","Fort Worth, Texas, United States",TCU
 "Texas State University","San Marcos, Texas, United States",txstate
 "Texas Tech University","Lubbock, Texas, United States",texastech
@@ -306,7 +306,7 @@ name,location,subreddit
 "The College of William and Mary","Williamsburg, Virginia, United States",williamandmary
 "The Evergreen State College","Olympia, Washington, United States",evergreen
 "Thomas Edison State College","Trenton, New Jersey, United States",TESC
-"Touro University","Vallejo, CA, United States",Touro
+"Touro University","Vallejo, California, United States",Touro
 "Towson University","Towson, Maryland, United States",towson
 "Trinity College, Dublin","Dublin, Ireland",TCD
 "Trinity University","San Antonio, Texas, United States",TrinityU

@@ -50,7 +50,7 @@ name,location,subreddit
 "California State University - San Bernardino","San Bernardino, California, United States",CSUSB
 "California State University - San Marcos","San Marcos, California, United States",csusm
 "California University of Pennsylvania","California, Pennsylvania, United States",calupa
-"Canterbury Christ Church University","Canterbury, Broadstairs, Tunbridge Wells, Chatham, Kent, UK",CCCU
+"Canterbury Christ Church University","Canterbury, England, United Kingdom",CCCU
 "Capilano University","North Vancouver, Squamish, Sunshine Coast, British Columbia, Canada",CapU
 "Carleton College","Northfield, Minnesota, United States",carletoncollege
 "Carleton University","Ottawa, Ontario, Canada",CarletonU
@@ -171,13 +171,13 @@ name,location,subreddit
 "Lyon College","Batesville, Arkansas, United States",LyonCollege
 "Macon State College","Macon, Georgia, United States",Macon_State
 "Macquarie University","Macquarie Park, Sydney, New South Wales, Australia",MacUni
-"Manchester Metropolitan University","Manchester, England, UK",MMU
+"Manchester Metropolitan University","Manchester, England, United Kingdom",MMU
 "Marist College","Poughkeepsie, New York, United States",marist
 "Marlboro College","Marlboro, Vermont, United States",marlborocollege
 "Marquette University","Milwaukee, Wisconsin, United States",Marquette
 "Marshall University","Huntington, West Virginia, United States",marshalluniversity
 "Massachusetts Institute of Technology","Cambridge, Massachusetts, United States",MIT
-"Mayfield College","Mayfield, East Sussex, England, UK",MayfieldCollege
+"Mayfield College","Mayfield, East Sussex, England, United Kingdom",MayfieldCollege
 "McGill University","Montréal, Québec, Canada",mcgill
 "McKendree University","Lebanon, Illinois, United States",McKendree_University
 "Metropolitan State College of Denver","Denver, Colorado, United States",MSCD
@@ -289,14 +289,14 @@ name,location,subreddit
 "Stephen F. Austin State University","Nacogdoches, Texas, United States",sfa
 "Stevens Institute of Technology","Hoboken, New Jersey, United States",stevens
 "Stony Brook University - SUNY","Stony Brook, New York, United States",sbu
-"Swansea University","Swansea, UK",swanseauni
+"Swansea University","Swansea, Wales, United Kingdom",swanseauni
 "Syracuse University","Syracuse, New York, United States",syracuseu
 "Tarleton State University","Stephenville, Texas, United States",tarleton
 "Taylor University","Upland, Indiana, United States",tayloruniversity
 "Technische Universität Berlin","Berlin, Germany",tuberlin
 "Technische Universität Darmstadt","Darmstadt, Hessen, Germany",tud
 "Tecnológico de Costa Rica","Cartago, Costa Rica",teccr
-"Teesside University","Middlesbrough, England, UK",TeessideUniversity
+"Teesside University","Middlesbrough, England, United Kingdom",TeessideUniversity
 "Temple University","Philadelphia, Pennsylvania, United States",temple
 "Tennessee State University","Nashville, Tennessee, United States",tsu
 "Texas A&M","College Station, Texas, United States",aggies
@@ -352,8 +352,8 @@ name,location,subreddit
 "University of Connecticut","Mansfield, Connecticut, United States",UCONN
 "University of Dayton","Dayton, Ohio, United States",uofdayton
 "University of Delaware","Newark, Delaware, United States",udel
-"University of Edinburgh","Edinburgh, Scotland, UK",uoe
-"University of Essex","Colchester, Essex, UK",essexuni
+"University of Edinburgh","Edinburgh, Scotland, United Kingdom",uoe
+"University of Essex","Colchester, Essex, United Kingdom",essexuni
 "University of Exeter","Exeter, Devon, Tremough, Cornwall, England",exe
 "University of Florida","Gainesville, Florida, United States",UFL
 "University of Georgia","Athens, Georgia, United States",UGA
@@ -371,7 +371,7 @@ name,location,subreddit
 "University of Kentucky","Lexington, Kentucky, United States",universityofkentucky
 "University of Leeds","Leeds, West Yorkshire, England",LeedsUni
 "University of Limerick","Limerick, Ireland",universityoflimerick
-"University of Lincoln","Lincoln, Lincolnshire, England, UK",LincolnUni
+"University of Lincoln","Lincoln, Lincolnshire, England, United Kingdom",LincolnUni
 "University of Louisiana-Lafayette","Lafayette, Louisiana, United States",ull
 "University of Louisville","Louisville, Kentucky, United States",AllHail
 "University of Maine","Orono, Maine, United States",umaine
@@ -410,7 +410,7 @@ name,location,subreddit
 "University of Oklahoma","Norman, Oklahoma, United States",sooners
 "University of Ontario Institute of Technology","Oshawa, Ontario, Canada",uoit
 "University of Ottawa","Ottawa, Ontario, Canada",geegees
-"University of Oxford","Oxford, England, UK",oxforduni
+"University of Oxford","Oxford, England, United Kingdom",oxforduni
 "University of Pennsylvania","Philadelphia, Pennsylvania, United States",upenn
 "University of Pisa","Pisa, Italy",unipi
 "University of Pittsburgh","Pittsburgh, Pennsylvania, United States",Pitt
@@ -422,7 +422,7 @@ name,location,subreddit
 "University of San Francisco","San Francisco, California, United States",usfca
 "University of Saskatchewan","Saskatoon, Saskatchewan, Canada",usask
 "University of Scranton","Scranton, Pennsylvania, United States",universityofscranton
-"University of Sheffield","Sheffield, South Yorkshire, England, UK",uos
+"University of Sheffield","Sheffield, South Yorkshire, England, United Kingdom",uos
 "University of South Carolina","Columbia, South Carolina, United States",gamecocks
 "University of South Florida","Tampa, Florida, United States",usf
 "University of Southern California","Los Angeles, California, United States",USC
@@ -459,7 +459,7 @@ name,location,subreddit
 "University of Wisconsin Whitewater","Whitewater, Wisconsin, United States",UWWhitewater
 "University of Wollongong","Wollongong, New South Wales, Australia",UOW
 "University of Wyoming","Laramie, Wyoming, United States",uwyo
-"University of York","York, United Kingdom",universityofyork
+"University of York","York, England, United Kingdom",universityofyork
 "University of the Fraser Valley","Abbotsford, British Columbia, Canada",UFV
 "University of the Pacific","Stockton, California, United States",UoP
 "University of the Philippines","Quezon City, Philippines",peyups

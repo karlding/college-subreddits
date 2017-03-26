@@ -1,9 +1,11 @@
 # college-subreddits
-An eventually-complete list of college subreddits.
+An eventually-complete list of college subreddits. The [list](https://www.reddit.com/r/college/wiki/faq) at [/r/college](https://www.reddit.com/r/college/) forms the basis for this list, but since they have a restriction where they'll generally only add new subreddits with >500 subscribers, I created this list. 
 
-If you notice your college subreddit isn't on this list, feel free to open an issue (or submit a Pull Request)
+If you notice your college subreddit isn't on this list, feel free to open an issue (or submit a Pull Request).
 
 ## Import
+First strip off the headers in the CSV. Then,
+
 ```bash
 sqlite3 data.db
 CREATE TABLE subreddits (name TEXT, location TEXT, subreddit TEXT COLLATE NOCASE);

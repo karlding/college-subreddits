@@ -64,7 +64,7 @@ name,location,subreddit
 "Chalmers University of Technology","Göteborg, Sweden",chalmers
 "Chapman University","Orange, California, United States",chapmanuniversity
 "City University London","London, England, United Kingdom",cityuniversitylondon
-"City University of New York (CUNY)","New York City, New York, United States",CUNY
+"City University of New York","New York City, New York, United States",CUNY
 "Claremont Colleges","Claremont, California, United States",claremontcolleges
 "Clark University","Worcester, Massachusetts, United States",ClarkU
 "Clemson University","Clemson, South Carolina, United States",clemson
@@ -225,7 +225,7 @@ name,location,subreddit
 "Northern Illinois University","DeKalb, Illinois, United States",NIU
 "Northern Kentucky Univeristy","Highland Heights, Kentucky, United States",NKU
 "Northwestern University","Evanston, Illinois, United States",Northwestern
-"Norwegian University of Science and Technology (NTNU)","Trondheim, Norway",ntnu
+"Norwegian University of Science and Technology","Trondheim, Norway",ntnu
 "Oberlin College","Oberlin, Ohio, United States",oberlin
 "Occidental College","Los Angeles, California, United States",Oxy
 "Ohio State University","Columbus, Ohio, United States",OSU
@@ -262,7 +262,7 @@ name,location,subreddit
 "Rice University","Houston, Texas, United States",riceuniversity
 "Richard Stockton College of New Jersey","Galloway, New Jersey, United States",RichardStockton
 "Riverside Community College","Riverside, California, United States",RCC
-"Rochester Institute of Technology (RIT)","Henrietta, New York, United States",rit
+"Rochester Institute of Technology","Henrietta, New York, United States",rit
 "Roosevelt University","Chicago, Illinois, United States",roosevelt
 "Rose Hulman Institue","Terre Haute, Indiana, United States",rosehulman
 "Rowan University","Glassboro, New Jersey, United States",rowanuniversity
@@ -270,8 +270,8 @@ name,location,subreddit
 "Ryerson University","Toronto, Ontario, Canada",ryerson
 "Saginaw Valley State University","University Center, Michigan, United States",svsu
 "Saint Edwards University","Austin, Texas, United States",StEdwards
-"Saint Francis Xavier University (STFX)","Antigonish, Nova Scotia, Canada",stfx
-"Saint Joseph's University (SJU)","Philadelphia, Pennsylvania, United States",sju
+"Saint Francis Xavier University","Antigonish, Nova Scotia, Canada",stfx
+"Saint Joseph's University","Philadelphia, Pennsylvania, United States",sju
 "Saint Louis University","St. Louis, Missouri, United States",billikens
 "Saint Mary's University","Halifax, Nova Scotia, Canada",smuhalifax
 "Saint Olaf College","Northfield, Minnesota, United States",stolaf
@@ -280,23 +280,23 @@ name,location,subreddit
 "San Diego State University","San Diego, California, United States",SDSU
 "San Francisco State University","San Francisco, California, United States",sfsu
 "San Jose State University","San Jose, California, United States",SJSU
-"Santa Clara University (SCU)","Santa Clara, California, United States",scu
+"Santa Clara University","Santa Clara, California, United States",scu
 "Savannah College of Art and Design","Savannah, Georgia, United States",scad
 "School of Oriental and African Studies","London, England, United Kingdom",soas
-"School of Visual Arts (SVA)","New York City, New York, United States",sva
+"School of Visual Arts","New York City, New York, United States",sva
 "Scripps College","Claremont, California, United States",scrippscollege
-"Seattle University (SU)","Seattle, Washington, United States",seattleu
+"Seattle University","Seattle, Washington, United States",seattleu
 "Seneca College","Toronto, Ontario, Canada",Seneca
-"Seton Hall University (SHU)","South Orange, New Jersey, United States",shu
+"Seton Hall University","South Orange, New Jersey, United States",shu
 "Sheridan College","Oakville, Ontario, Canada",sheridan
-"Shippensburg University (SUP)","Shippensburg, Pennsylvania, United States",ship
+"Shippensburg University","Shippensburg, Pennsylvania, United States",ship
 "Siena College","Loudonville, New York, United States",siena
 "Sierra College","Rocklin, California, United States of America",SierraCollege
-"Simon Fraser University (SFU)","Burnaby, British Columbia, Canada",simonfraser
+"Simon Fraser University","Burnaby, British Columbia, Canada",simonfraser
 "Sonoma State University","Rohnert Park, California, United States",ssu
-"South Dakota School of Mines and Tech (SDSM&T)","Rapid City, South Dakota, United States",SDSMT
+"South Dakota School of Mines and Tech","Rapid City, South Dakota, United States",SDSMT
 "Southeast Missouri State University","Cape Girardeau, Missouri, United States",semo
-"Southern Alberta Institute of Technology (SAIT)","Calgary, Alberta, Canada",sait
+"Southern Alberta Institute of Technology","Calgary, Alberta, Canada",sait
 "Southern Illinois University","Carbondale, Edwardsville, Springfield, Illinois, United States",SIU
 "Southern Illinois University Edwardsville","Edwardsville, Illinois, United States",SIUE
 "Southern Methodist University","University Park, Texas, United States",smu
@@ -338,7 +338,7 @@ name,location,subreddit
 "United States Naval Academy","Annapolis, Maryland, United States",usna
 "Universidad de Costa Rica","San Pedro Montes de Oca, San JosÃ©, Costa Rica",ucrcr
 "Universidad de San Carlos de Guatemala","Guatemala City, Guatemala",USAC
-"University College London (UCL)","London, England, United Kingdom",ucl
+"University College London","London, England, United Kingdom",ucl
 "University at Albany - SUNY","Albany, New York, United States",ualbany
 "University at Buffalo - SUNY","Buffalo, New York, United States",ubreddit
 "University of Akron","Akron, Ohio, United States",uakron
@@ -349,7 +349,7 @@ name,location,subreddit
 "University of Arizona","Tucson, Arizona, United States",UofArizona
 "University of Arkansas","Fayetteville, Arkansas, United States of America",UniversityofArkansas
 "University of Baltimore","Baltimore, Maryland, United States",UBALTIMORE
-"University of Birmingham (UK)","Birmingham, West Midlands, United Kingdom",UofB
+"University of Birmingham","Birmingham, West Midlands, United Kingdom",UofB
 "University of Bristol","Bristol, England, United Kingdom",UOB
 "University of British Columbia","Vancouver, British Columbia, Canada",UBC
 "University of British Columbia Okanagan","Kelowna, British Columbia, Canada",ubco
@@ -453,7 +453,7 @@ name,location,subreddit
 "University of South Florida","Tampa, Florida, United States",usf
 "University of Southern California","Los Angeles, California, United States",USC
 "University of Southern Indiana","Vanderburgh County, Indiana, United States",USI
-"University of St. Thomas (Houston)","Houston, Texas, United States",stthomas
+"University of St. Thomas","Houston, Texas, United States",stthomas
 "University of St. Thomas - Houston","Houston, Texas, United States",stthomas
 "University of Strathclyde","Glasgow, Scotland, United Kingdom",strathclyde
 "University of Sydney","Sydney, Australia",usyd
@@ -522,13 +522,13 @@ name,location,subreddit
 "Western Washington University","Bellingham, Washington, United States",WWU
 "Westminster College SLC","Salt Lake City, Utah, United States",WestminsterCollege
 "Westmont College In Santa Barbara","Santa Barbara, California, United States",Westmont
-"Wheaton College (IL)","Wheaton, Illinois, United States",wheaton
+"Wheaton College","Wheaton, Illinois, United States",wheaton
 "Widener University","Chester, Pennsylvania, United States",widener
 "Wilfrid Laurier University","Waterloo, Ontario, Canada",wlu
 "William Woods University","Fulton, Missouri, United States",WoodsWay
 "Williams College","Williamstown, Massachusetts, United States",williamscollege
 "Worcester Polytechnic Institute","Worcester, Massachusetts, United States",wpi
-"Wright State University (OH)","Fairborn, Ohio, United States",wrightstate
+"Wright State University","Fairborn, Ohio, United States",wrightstate
 "Yale University","New Haven, Connecticut, United States",yale
 "York University in Toronto","Toronto, Ontario, Canada",yorku
 "École de Technologie Supérieure","Montréal, Québec, Canada",etsmtl

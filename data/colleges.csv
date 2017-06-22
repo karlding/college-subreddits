@@ -44,7 +44,6 @@ name,location,subreddit
 "California State University - Chico","Chico, California, United States",CSUC
 "California State University - Dominguez Hills","Carson, California, United States",CSUDH
 "California State University - East Bay","Hayward, California, United States",CSUEB
-"California State University - Fresno","Fresno, California, United States",fresnostate
 "California State University - Fullerton","Fullerton, California, United States",csuf
 "California State University - Long Beach","Long Beach, California, United States",csulb
 "California State University - Los Angeles","University Hills, Los Angeles, California, United States",CSULA
@@ -53,6 +52,7 @@ name,location,subreddit
 "California State University - Sacramento","Sacramento, California, United States",CSUS
 "California State University - San Bernardino","San Bernardino, California, United States",CSUSB
 "California State University - San Marcos","San Marcos, California, United States",csusm
+"California State University, Fresno","Fresno, California, United States",fresnostate
 "California University of Pennsylvania","California, Pennsylvania, United States",calupa
 "Canterbury Christ Church University","Canterbury, England, United Kingdom",CCCU
 "Capilano University","North Vancouver, Squamish, Sunshine Coast, British Columbia, Canada",CapU
@@ -95,7 +95,7 @@ name,location,subreddit
 "Digipen Institute of Technology","Redmond, Washington, United States",digipen
 "Drexel University","Philadelphia, Pennsylvania, United States",Drexel
 "Duke University","Durham, North Carolina, United States",duke
-"Durham College","Oshawa, Ontario, Canada",uoit
+"Durham College","Oshawa, Ontario, Canada",durhamcollege
 "Earlham College","Richmond, Indiana, United States",earlhamcollege
 "East Tennessee State University","Johnson City, Tennessee, United States",etsu
 "Eastern Connecticut State University","Willimantic, Connecticut, United States",ecsu
@@ -103,7 +103,6 @@ name,location,subreddit
 "Embry-Riddle Aeronautical University","Prescott, Arizona, United States",erau
 "Emerson College","Boston, Massachusetts, United States",emersoncollege
 "Emory University","Druid Hills, Georgia, United States",emory
-"Evergreen State College","Olympia, Washington, United States",evergreen
 "Fairfield University","Fairfield, Connecticut, United States",fairfieldU
 "Fanshawe College","London, Ontario, Canada",fanshawe
 "Flagler College","St. Augustine, Florida, United States",FlaglerCollege
@@ -116,7 +115,6 @@ name,location,subreddit
 "Fontbonne University","St. Louis, Missouri, United States",fontbonne
 "Fordham University","New York City, New York, United States",fordham
 "Franklin & Marshall College","Lancaster, Pennsylvania, United States",fandm
-"Fresno State","Fresno, California, United States",fresnostate
 "Furman University","Greenville, South Carolina, United States",Furman
 "George Mason University","Fairfax, Virginia, United States",gmu
 "George Washington University","Washington, D.C., United States",gwu
@@ -456,7 +454,6 @@ name,location,subreddit
 "University of Southern California","Los Angeles, California, United States",USC
 "University of Southern Indiana","Vanderburgh County, Indiana, United States",USI
 "University of St. Thomas","Houston, Texas, United States",stthomas
-"University of St. Thomas - Houston","Houston, Texas, United States",stthomas
 "University of Strathclyde","Glasgow, Scotland, United Kingdom",strathclyde
 "University of Sydney","Sydney, Australia",usyd
 "University of Technology, Sydney","Sydney, Australia",uts

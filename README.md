@@ -8,7 +8,7 @@ First strip off the headers in the CSV. Then,
 
 ```bash
 sqlite3 data.db
-CREATE TABLE "subreddits" ( `name` TEXT NOT NULL, `location` TEXT NOT NULL, `subreddit` TEXT NOT NULL COLLATE NOCASE )
+CREATE TABLE "subreddits" ( `name` TEXT NOT NULL, `location` TEXT NOT NULL, `subreddit` TEXT NOT NULL UNIQUE COLLATE NOCASE )
 .separator ','
 .import data/colleges.csv subreddits
 ```
@@ -16,7 +16,7 @@ CREATE TABLE "subreddits" ( `name` TEXT NOT NULL, `location` TEXT NOT NULL, `sub
 Or at once
 
 ```bash
-tail -n+2 data/colleges.csv > data.csv && echo -e ".separator ","\nCREATE TABLE subreddits (name TEXT NOT NULL, location TEXT NOT NULL, subreddit TEXT NOT NULL COLLATE NOCASE);\n.import data.csv subreddits" | sqlite3 data.db && rm data.csv
+tail -n+2 data/colleges.csv > data.csv && echo -e ".separator ","\nCREATE TABLE subreddits (name TEXT NOT NULL, location TEXT NOT NULL, subreddit TEXT NOT NULL UNIQUE COLLATE NOCASE);\n.import data.csv subreddits" | sqlite3 data.db && rm data.csv
 ```
 
 ## Updating

@@ -11,7 +11,7 @@ name,location,subreddit
 "Arizona State University","Tempe, Arizona, United States",asu
 "Arkansas State University","Jonesboro, Arkansas, United States",ArkansasState
 "Auburn University","Auburn, Alabama, United States",auburn
-"Australian National University","Acton, Australian Capital Territory, Australia",anu
+"Australian National University","Canberra, Australia",Anu
 "Azusa Pacific University","Azusa, California, United States",apu
 "Babson College","Wellesley, Massachusetts, United States",Babson
 "Ball State University","Muncie, Indiana, United States",ballstate
@@ -56,7 +56,7 @@ name,location,subreddit
 "California State University, Fresno","Fresno, California, United States",fresnostate
 "California University of Pennsylvania","California, Pennsylvania, United States",calupa
 "Canterbury Christ Church University","Canterbury, England, United Kingdom",CCCU
-"Capilano University","North Vancouver, Squamish, Sunshine Coast, British Columbia, Canada",CapU
+"Capilano University","North Vancouver, British Columbia, Canada",CapU
 "Carleton College","Northfield, Minnesota, United States",carletoncollege
 "Carleton University","Ottawa, Ontario, Canada",CarletonU
 "Carnegie Mellon University","Pittsburgh, Pennsylvania, United States",cmu
@@ -181,7 +181,7 @@ name,location,subreddit
 "Luther College Iowa","Decorah, Iowa, United States",luther
 "Lyon College","Batesville, Arkansas, United States",LyonCollege
 "Macon State College","Macon, Georgia, United States",Macon_State
-"Macquarie University","Macquarie Park, Sydney, New South Wales, Australia",MacUni
+"Macquarie University","Sydney, New South Wales, Australia",MacUni
 "Manchester Metropolitan University","Manchester, England, United Kingdom",MMU
 "Marist College","Poughkeepsie, New York, United States",marist
 "Marlboro College","Marlboro, Vermont, United States",marlborocollege
@@ -456,8 +456,8 @@ name,location,subreddit
 "University of Southern Indiana","Vanderburgh County, Indiana, United States",USI
 "University of St. Thomas","Houston, Texas, United States",stthomas
 "University of Strathclyde","Glasgow, Scotland, United Kingdom",strathclyde
-"University of Sydney","Sydney, Australia",usyd
-"University of Technology, Sydney","Sydney, Australia",uts
+"University of Sydney","Sydney, New South Wales, Australia",usyd
+"University of Technology Sydney","Sydney, New South Wales, Australia",UTS
 "University of Tennessee - Knoxville","Knoxville, Tennessee, United States",UTK
 "University of Texas - Austin","Austin, Texas, United States",UTAustin
 "University of Texas - Dallas","Richardson, Texas, United States",utdallas

@@ -3,31 +3,31 @@ name,location,subreddit
 "Acadia University","Wolfville, Nova Scotia, Canada",AcadiaU
 "Algonquin College","Ottawa, Ontario, Canada",Algonquin_College
 "Amarillo College","Amarillo, Texas, United States",amarillocollege
-"American University","Washington, D.C., United States",americanu
+"American University","Washington, D.C., United States",AmericanU
 "Amherst College","Amherst, Massachusetts, United States",amherstcollege
 "Anderson University","Anderson, South Carolina, United States",AndersonUniversity
 "Appalachian State University","Boone, North Carolina, United States",appstate
 "Aquinas College","Grand Rapids, Michigan, United States",aquinas
-"Arizona State University","Tempe, Arizona, United States",asu
+"Arizona State University","Tempe, Arizona, United States",ASU
 "Arkansas State University","Jonesboro, Arkansas, United States",ArkansasState
 "Auburn University","Auburn, Alabama, United States",auburn
 "Australian National University","Canberra, Australia",Anu
 "Azusa Pacific University","Azusa, California, United States",apu
 "Babson College","Wellesley, Massachusetts, United States",Babson
-"Ball State University","Muncie, Indiana, United States",ballstate
-"Baruch College","New York City, New York, United States",baruch
+"Ball State University","Muncie, Indiana, United States",BallState
+"Baruch College","New York City, New York, United States",Baruch
 "Baylor University","Waco, Texas, United States",baylor
-"Berea College","Berea, Kentucky, United States",Berea
+"Berea College","Berea, Kentucky, United States",berea
 "Berklee College","Boston, Massachusetts, United States",Berklee
-"Binghamton University","Vestal, New York, United States",binghamtonuniversity
+"Binghamton University","Vestal, New York, United States",BinghamtonUniversity
 "Biola University","La Mirada, California, United States",Biola
 "Boise State University","Boise, Idaho, United States",bsu
-"Boston Architectural College","Boston, Massachusetts, United States",thebac
+"Boston Architectural College","Boston, Massachusetts, United States",theBAC
 "Boston College","Chestnut Hill, Massachusetts, United States",bostoncollege
 "Boston University","Boston, Massachusetts, United States",BostonU
 "Bournemouth University","Poole and Bournemouth, Dorset, England",BournemouthUni
 "Bowdoin College","Brunswick, Maine, United States",Bowdoin
-"Bowling Green State University","Bowling Green, Ohio, United States",bgsu
+"Bowling Green State University","Bowling Green, Ohio, United States",BGSU
 "Brandeis University","Waltham, Massachusetts, United States",brandeis
 "Brigham Young University","Provo, Utah, United States",byu
 "British Columbia Institute of Technology","Burnaby, British Columbia, Canada",BCIT
@@ -37,7 +37,7 @@ name,location,subreddit
 "Brunel University London","Uxbridge, London, United Kingdom",brunel
 "Bucknell University","Lewisburg, Pennsylvania, United States",bucknell
 "Butler University","Indianapolis, Indiana, United States",butleruniversity
-"California College of the Arts","San Francisco, California, United States",cca
+"California College of the Arts","San Francisco, California, United States",CCA
 "California Institute Of Technology","Pasadena, California, United States",Caltech
 "California Polytechnic State University","San Luis Obispo, California, United States",CalPoly
 "California Polytechnic State University - Pomona","Pomona, California, United States",CalPolyPomona
@@ -46,9 +46,9 @@ name,location,subreddit
 "California State University - Dominguez Hills","Carson, California, United States",CSUDH
 "California State University - East Bay","Hayward, California, United States",CSUEB
 "California State University - Fullerton","Fullerton, California, United States",csuf
-"California State University - Long Beach","Long Beach, California, United States",csulb
+"California State University - Long Beach","Long Beach, California, United States",CSULB
 "California State University - Los Angeles","University Hills, Los Angeles, California, United States",CSULA
-"California State University - Monterey Bay","Marina and Seaside, California, United States",CSUMB
+"California State University - Monterey Bay","Marina and Seaside, California, United States",csumb
 "California State University - Northridge","Los Angeles, California, United States",csun
 "California State University - Sacramento","Sacramento, California, United States",CSUS
 "California State University - San Bernardino","San Bernardino, California, United States",CSUSB
@@ -57,7 +57,7 @@ name,location,subreddit
 "California University of Pennsylvania","California, Pennsylvania, United States",calupa
 "Canterbury Christ Church University","Canterbury, England, United Kingdom",CCCU
 "Capilano University","North Vancouver, British Columbia, Canada",CapU
-"Carleton College","Northfield, Minnesota, United States",carletoncollege
+"Carleton College","Northfield, Minnesota, United States",CarletonCollege
 "Carleton University","Ottawa, Ontario, Canada",CarletonU
 "Carnegie Mellon University","Pittsburgh, Pennsylvania, United States",cmu
 "Case Western Reserve University","Cleveland, Ohio, United States",cwru
@@ -70,10 +70,10 @@ name,location,subreddit
 "City University of New York","New York City, New York, United States",CUNY
 "Claremont Colleges","Claremont, California, United States",claremontcolleges
 "Clark University","Worcester, Massachusetts, United States",ClarkU
-"Clemson University","Clemson, South Carolina, United States",clemson
+"Clemson University","Clemson, South Carolina, United States",Clemson
 "Coastal Carolina University","Conway, South Carolina, United States",CCU
 "Colby College","Waterville, Maine, United States",Colby
-"Colgate University","Hamilton, New York, United States",colgate
+"Colgate University","Hamilton, New York, United States",Colgate
 "College of Charleston","Charleston, South Carolina, United States",CofC
 "College of the Holy Cross","Worcester, Massachusetts, United States",HolyCross
 "Colorado School of Mines","Golden, Colorado, United States",ColoradoSchoolOfMines
@@ -84,11 +84,11 @@ name,location,subreddit
 "Connecticut College","New London, Connecticut, United States",conncoll
 "Cornell University","Ithaca, New York, United States",Cornell
 "Coventry University","Coventry, England, United Kingdom",CovUni
-"Curtin University","Bentley, Western Australia, Australia",Curtin
+"Curtin University","Bentley, Western Australia, Australia",curtin
 "Dalhousie University","Halifax, Nova Scotia, Canada",Dalhousie
 "Dartmouth College","Hanover, New Hampshire, United States",dartmouth
 "Davidson College","Davidson, North Carolina, United States",davidsoncollege
-"DePauw University","Greencastle, Indiana, United States",depauw
+"DePauw University","Greencastle, Indiana, United States",DePauw
 "DeVry University","Downers Grove, Illinois, United States",devry
 "Denison University","Granville, Ohio, United States",Denison
 "Depaul University","Chicago, Illinois, United States",depaul
@@ -97,24 +97,24 @@ name,location,subreddit
 "Drexel University","Philadelphia, Pennsylvania, United States",Drexel
 "Duke University","Durham, North Carolina, United States",duke
 "Durham College","Oshawa, Ontario, Canada",durhamcollege
-"Earlham College","Richmond, Indiana, United States",earlhamcollege
-"East Tennessee State University","Johnson City, Tennessee, United States",etsu
-"Eastern Connecticut State University","Willimantic, Connecticut, United States",ecsu
+"Earlham College","Richmond, Indiana, United States",EarlhamCollege
+"East Tennessee State University","Johnson City, Tennessee, United States",ETSU
+"Eastern Connecticut State University","Willimantic, Connecticut, United States",ECSU
 "Eastern Washington University","Cheney, Washington, United States",ewu
 "Embry-Riddle Aeronautical University","Prescott, Arizona, United States",erau
-"Emerson College","Boston, Massachusetts, United States",emersoncollege
-"Emory University","Druid Hills, Georgia, United States",emory
+"Emerson College","Boston, Massachusetts, United States",EmersonCollege
+"Emory University","Druid Hills, Georgia, United States",Emory
 "Fairfield University","Fairfield, Connecticut, United States",fairfieldU
 "Fanshawe College","London, Ontario, Canada",fanshawe
-"Flagler College","St. Augustine, Florida, United States",FlaglerCollege
-"Florida Atlantic University","Boca Raton, Florida, United States",fau
-"Florida Gulf Coast University","Unincorporated Lee County, Florida, United States",FGCU
+"Flagler College","St. Augustine, Florida, United States",flaglercollege
+"Florida Atlantic University","Boca Raton, Florida, United States",FAU
+"Florida Gulf Coast University","Unincorporated Lee County, Florida, United States",fgcu
 "Florida Institute of Technology","Melbourne, Florida, United States",fit
-"Florida International University","University Park, Florida, United States",fiu
+"Florida International University","University Park, Florida, United States",FIU
 "Florida State University","Tallahassee, Florida, United States",fsu
-"Folsom Lake College","Folsom, California, United States",flc
-"Fontbonne University","St. Louis, Missouri, United States",fontbonne
-"Fordham University","New York City, New York, United States",fordham
+"Folsom Lake College","Folsom, California, United States",FLC
+"Fontbonne University","St. Louis, Missouri, United States",Fontbonne
+"Fordham University","New York City, New York, United States",Fordham
 "Franklin & Marshall College","Lancaster, Pennsylvania, United States",fandm
 "Furman University","Greenville, South Carolina, United States",Furman
 "George Mason University","Fairfax, Virginia, United States",gmu
@@ -125,11 +125,11 @@ name,location,subreddit
 "Georgia Southern University","Statesboro, Georgia, United States",GSU
 "Georgia State University","Atlanta, Georgia, United States",GaState
 "Goldsmiths University","London, England, United Kingdom",goldsmiths
-"Gonzaga University","Spokane, Washington, United States",gonzaga
-"Grand Valley State University","Allendale, Michigan, United States",gvsu
-"Grant MacEwan University","Edmonton, Alberta, Canada",gmacewan
+"Gonzaga University","Spokane, Washington, United States",Gonzaga
+"Grand Valley State University","Allendale, Michigan, United States",GVSU
+"Grant MacEwan University","Edmonton, Alberta, Canada",GMACEWAN
 "Greenville College","Greenville, Illinois, United States",greenvillecollege
-"Griffith University","Brisbane, Queensland, Australia",griffithuni
+"Griffith University","Brisbane, Queensland, Australia",GriffithUni
 "Grinnell College","Grinnell, Iowa, United States",Grinnell
 "Grossmont College","El Cajon, California, United States",grossmont
 "Gulf Coast State College","Panama City, Florida, United States",gcsc
@@ -137,46 +137,46 @@ name,location,subreddit
 "Hamilton College","Clinton, New York, United States",hamiltoncollege
 "Hampshire College","Amherst, Massachusetts, United States",HampshireCollege
 "Harford Community College","Churchville, Maryland, United States",HarfordCC
-"Harvard University","Cambridge, Massachusetts, United States",harvard
+"Harvard University","Cambridge, Massachusetts, United States",Harvard
 "Harvey Mudd College","Claremont, California, United States",harveymudd
 "Henderson State University","Arkadelphia, Arkansas, United States",HendersonState
 "Hillsdale College","Hillsdale, Michigan, United States",hillsdale
-"Houston Community College","Houston, Texas, United States.",HoustonCC
+"Houston Community College","Houston, Texas, United States.",houstoncc
 "Humber College","Toronto, Ontario, Canada",Humber
 "Humboldt State University","Arcata, California, United States",humboldtstate
 "Hunter College","New York City, New York, United States",HunterCollege
-"Illinois Institute of Technology","Chicago, Illinois, United States",iit
+"Illinois Institute of Technology","Chicago, Illinois, United States",IIT
 "Illinois State University","Normal, Illinois, United States",ilstu
 "Illinois Wesleyan University","Bloomington, Illinois, United States",IllinoisWesleyan
-"Imperial College London","London, England, United Kingdom",imperial
+"Imperial College London","London, England, United Kingdom",Imperial
 "Indiana State University","Terre Haute, Indiana, United States",indstate
 "Indiana University","Bloomington, Indiana, United States",IndianaUniversity
 "Indiana University of Pennsylvania","Indianapolis, Indiana, United States",IUP
 "Iowa State University","Ames, Iowa, United States",iastate
-"Ithaca College","Ithaca, New York, United States",ithacacollege
+"Ithaca College","Ithaca, New York, United States",IthacaCollege
 "Jacksonville State University","Jacksonville, Alabama, United States",JSU
 "James Cook University","Townsville, Queensland, Australia",jamescook
-"James Madison University","Harrisonburg, Virginia, United States",JMU
-"John Carroll University","University Heights, Ohio, United States",JCU
-"Johns Hopkins University","Baltimore, Maryland, United States",JHU
-"Juniata College","Huntingdon, Pennsylvania, United States",juniatacollege
+"James Madison University","Harrisonburg, Virginia, United States",jmu
+"John Carroll University","University Heights, Ohio, United States",jcu
+"Johns Hopkins University","Baltimore, Maryland, United States",jhu
+"Juniata College","Huntingdon, Pennsylvania, United States",JuniataCollege
 "KTH Royal Institute of Technology","Stockholm, Sweden, United States",kth
-"Kansas State University","Manhattan, Kansas, United States",kstate
-"Kennesaw State University","Kennesaw, Georgia, United States",ksu
-"Kent State University","Kent, Ohio, United States",kentstateuniversity
-"Kettering University","Flint, Michigan, United States",kettering
+"Kansas State University","Manhattan, Kansas, United States",KState
+"Kennesaw State University","Kennesaw, Georgia, United States",KSU
+"Kent State University","Kent, Ohio, United States",KentStateUniversity
+"Kettering University","Flint, Michigan, United States",Kettering
 "King's College - London","London, England, United Kingdom",KCL
 "Kutztown University of Pennsylvania","Kutztown, Pennsylvania, United States",kutztown
-"Lakehead University","Thunder Bay, Ontario, Canada",LakeheadU
+"Lakehead University","Thunder Bay, Ontario, Canada",lakeheadu
 "Langara College","Vancouver, British Columbia, Canada",langara
 "Lawrence University","Appleton, Wisconsin, United States",lawrenceu
-"Lehigh University","Bethlehem, Pennsylvania, United States",lehigh
+"Lehigh University","Bethlehem, Pennsylvania, United States",Lehigh
 "Liberty University","Lynchburg, Virginia, United States",LibertyUniversity
 "Linköping University","Linköping, Sweden",linkopinguniversity
-"Longwood University","Farmville, Virginia, United States",longwood
+"Longwood University","Farmville, Virginia, United States",Longwood
 "Loughborough University","Loughborough, Leicestershire, England",lufbra
 "Louisiana State University","Baton Rouge, Louisiana, United States",LSU
-"Louisiana Tech University","Ruston, Louisiana, United States",louisianatech
+"Louisiana Tech University","Ruston, Louisiana, United States",LouisianaTech
 "Loyola Marymount University","Los Angeles, California, United States",LMU
 "Luther College Iowa","Decorah, Iowa, United States",luther
 "Lyon College","Batesville, Arkansas, United States",LyonCollege
@@ -186,8 +186,8 @@ name,location,subreddit
 "Marist College","Poughkeepsie, New York, United States",marist
 "Marlboro College","Marlboro, Vermont, United States",marlborocollege
 "Marquette University","Milwaukee, Wisconsin, United States",Marquette
-"Marshall University","Huntington, West Virginia, United States",marshalluniversity
-"Massachusetts Institute of Technology","Cambridge, Massachusetts, United States",MIT
+"Marshall University","Huntington, West Virginia, United States",MarshallUniversity
+"Massachusetts Institute of Technology","Cambridge, Massachusetts, United States",mit
 "Mayfield College","Mayfield, East Sussex, England, United Kingdom",MayfieldCollege
 "McGill University","Montréal, Québec, Canada",mcgill
 "McKendree University","Lebanon, Illinois, United States",McKendree_University
@@ -195,12 +195,12 @@ name,location,subreddit
 "Memorial University of Newfoundland","St. John's, Newfoundland, Canada",memorialuniversity
 "Metropolitan State College of Denver","Denver, Colorado, United States",MSCD
 "Miami University - Oxford","Oxford, Ohio, United States",miamioh
-"Michigan State University","East Lansing, Michigan, United States",MSU
+"Michigan State University","East Lansing, Michigan, United States",msu
 "Michigan Technological University","Houghton, Michigan, United States",MTU
-"Middle Tennessee State University","Murfreesboro, Tennessee, United States",mtsu
+"Middle Tennessee State University","Murfreesboro, Tennessee, United States",MTSU
 "Milwaukee Area Technical College","Milwaukee, Wisconsin, United States",matc
 "Milwaukee School of Engineering","Milwaukee, Wisconsin, United States",MSOE
-"Mississippi State University","Starkville, Mississippi, United States",msstate
+"Mississippi State University","Starkville, Mississippi, United States",Msstate
 "Missouri State University","Springfield, Missouri, United States",missouristate
 "Mohawk College","Hamilton, Ontario, Canada",mohawkcollege
 "Montana State University","Bozeman, Montana, United States",MSUcats
@@ -209,16 +209,16 @@ name,location,subreddit
 "Mountain State University","Beckley, West Virginia, United States",MountainState
 "Mt San Jacinto College ","San Jacinto, California, United States",MtSanJacintoCollege
 "Murdoch University","Menifee, California, United States",murdoch
-"Murray State University","Murray, Kentucky, United States",murray
+"Murray State University","Murray, Kentucky, United States",Murray
 "National University of Singapore","Singapore, Singapore",nus
-"Neumont University","Salt Lake City, Utah, United States",neumont
-"New Jersey Institute Of Technology","Newark, New Jersey, United States",njtech
+"Neumont University","Salt Lake City, Utah, United States",Neumont
+"New Jersey Institute Of Technology","Newark, New Jersey, United States",NJTech
 "New Mexico Institute of Mining and Technology","Socorro, New Mexico, United States",nmt
 "New Mexico State University","Las Cruces, New Mexico, United States",nmsu
 "New York University - NYU","New York City, New York, United States",nyu
 "Niagara College","Welland, Ontario, Canada",niagaracollege
 "Nicholls State University","Thibodaux, Louisiana, United States",NSU
-"North Carolina State University","Raleigh, North Carolina, United States",ncsu
+"North Carolina State University","Raleigh, North Carolina, United States",NCSU
 "North Dakota State University","Fargo, North Dakota, United States",NDSU
 "Northeastern University","Boston, Massachusetts, United States",NEU
 "Northern Alberta Institute of Technology","Edmonton, Alberta, Canada",NAIT
@@ -233,15 +233,15 @@ name,location,subreddit
 "Ohio University","Athens, Ohio, United States",athensohio
 "Oklahoma City University","Oklahoma City, Oklahoma, United States",OCU
 "Oklahoma State University","Tulsa, Oklahoma, United States",OKState
-"Old Dominion University","Norfolk, Virginia, United States",odu
+"Old Dominion University","Norfolk, Virginia, United States",ODU
 "Olin College","Needham, Massachusetts, United States",olin
 "Orange Coast College","Costa Mesa, California, United States",OCC
 "Oregon State University","Corvallis, Oregon, United States",OregonStateUniv
-"Otterbein College","Westerville, Ohio, United States",otterbein
-"Oxford Brookes University","Oxford, England, United Kingdom",oxfordbrookes
+"Otterbein College","Westerville, Ohio, United States",Otterbein
+"Oxford Brookes University","Oxford, England, United Kingdom",OxfordBrookes
 "Pace University","New York City, New York, United States",pace
-"Pacific Lutheran University","Parkland, Washington, United States",plu
-"Parkland College","Champaign, Illinois, United States",parklandcollege
+"Pacific Lutheran University","Parkland, Washington, United States",PLU
+"Parkland College","Champaign, Illinois, United States",ParklandCollege
 "Penn State University","University Park, Pennsylvania, United States",PennStateUniversity
 "Pennsylvania College of Technology","Williamsport, Pennsylvania, United States",gopct
 "Pepperdine University","Malibu, California, United States",Pepperdine
@@ -251,8 +251,8 @@ name,location,subreddit
 "Portland State University","Portland, Oregon, United States",portlandstate
 "Princeton University","Princeton, New Jersey, United States",princeton
 "Providence College","Providence, Rhode Island, United States",ProvidenceCollege
-"Purdue University","West Lafayette, Indiana, United States",purdue
-"Queen Mary University of London - Barts","London, England, United Kingdom",qmulandbarts
+"Purdue University","West Lafayette, Indiana, United States",Purdue
+"Queen Mary University of London - Barts","London, England, United Kingdom",QMULandBarts
 "Queen's University","Kingston, Ontario, Canada",queensuniversity
 "Queensland University of Technology","Brisbane, Queensland, Australia",QUTreddit
 "Quinnipiac University","Hamden, North Haven, Connecticut, United States",Quinnipiac
@@ -264,89 +264,89 @@ name,location,subreddit
 "Richard Stockton College of New Jersey","Galloway, New Jersey, United States",RichardStockton
 "Riverside Community College","Riverside, California, United States",RCC
 "Rochester Institute of Technology","Henrietta, New York, United States",rit
-"Roosevelt University","Chicago, Illinois, United States",roosevelt
+"Roosevelt University","Chicago, Illinois, United States",Roosevelt
 "Rose Hulman Institue","Terre Haute, Indiana, United States",rosehulman
-"Rowan University","Glassboro, New Jersey, United States",rowanuniversity
+"Rowan University","Glassboro, New Jersey, United States",RowanUniversity
 "Rutgers University","New Brunswick, New Jersey, United States",rutgers
 "Ryerson University","Toronto, Ontario, Canada",ryerson
-"Saginaw Valley State University","University Center, Michigan, United States",svsu
-"Saint Edwards University","Austin, Texas, United States",StEdwards
+"Saginaw Valley State University","University Center, Michigan, United States",SVSU
+"Saint Edwards University","Austin, Texas, United States",stedwards
 "Saint Francis Xavier University","Antigonish, Nova Scotia, Canada",stfx
 "Saint Joseph's University","Philadelphia, Pennsylvania, United States",sju
 "Saint Louis University","St. Louis, Missouri, United States",billikens
-"Saint Mary's University","Halifax, Nova Scotia, Canada",smuhalifax
+"Saint Mary's University","Halifax, Nova Scotia, Canada",SMUHalifax
 "Saint Olaf College","Northfield, Minnesota, United States",stolaf
 "Salt Lake Community College","Salt Lake County, Utah, United States",SLCC
 "Sam Houston State University","Huntsville, Texas, United States",SHSU
 "San Diego State University","San Diego, California, United States",SDSU
-"San Francisco State University","San Francisco, California, United States",sfsu
+"San Francisco State University","San Francisco, California, United States",SFSU
 "San Jose State University","San Jose, California, United States",SJSU
-"Santa Clara University","Santa Clara, California, United States",scu
+"Santa Clara University","Santa Clara, California, United States",SCU
 "Savannah College of Art and Design","Savannah, Georgia, United States",scad
-"School of Oriental and African Studies","London, England, United Kingdom",soas
+"School of Oriental and African Studies","London, England, United Kingdom",SOAS
 "School of Visual Arts","New York City, New York, United States",sva
 "Scripps College","Claremont, California, United States",scrippscollege
 "Seattle University","Seattle, Washington, United States",seattleu
 "Seneca College","Toronto, Ontario, Canada",Seneca
-"Seton Hall University","South Orange, New Jersey, United States",shu
+"Seton Hall University","South Orange, New Jersey, United States",SHU
 "Sheridan College","Oakville, Ontario, Canada",sheridan
 "Shippensburg University","Shippensburg, Pennsylvania, United States",ship
 "Siena College","Loudonville, New York, United States",siena
 "Sierra College","Rocklin, California, United States of America",SierraCollege
 "Simon Fraser University","Burnaby, British Columbia, Canada",simonfraser
-"Sonoma State University","Rohnert Park, California, United States",ssu
+"Sonoma State University","Rohnert Park, California, United States",SSU
 "South Dakota School of Mines and Tech","Rapid City, South Dakota, United States",SDSMT
 "Southeast Missouri State University","Cape Girardeau, Missouri, United States",semo
-"Southern Alberta Institute of Technology","Calgary, Alberta, Canada",sait
+"Southern Alberta Institute of Technology","Calgary, Alberta, Canada",SAIT
 "Southern Illinois University","Carbondale, Edwardsville, Springfield, Illinois, United States",SIU
 "Southern Illinois University Edwardsville","Edwardsville, Illinois, United States",SIUE
-"Southern Methodist University","University Park, Texas, United States",smu
-"Southern Polytechnic State University","Marietta, Georgia, United States",spsu
+"Southern Methodist University","University Park, Texas, United States",SMU
+"Southern Polytechnic State University","Marietta, Georgia, United States",SPSU
 "St. John's College","Meadowbank, Auckland, New Zealand",stjohnscollege
 "St. Petersburg College","St. Petersburg, Florida, United States",Spc
 "Stanford University","Stanford, California, United States",stanford
-"State University of New York at Oswego - SUNY","Oswego, New York, United States",oswego
-"State University of New York at Potsdam - SUNY","Potsdam, New York, United States",potsdam
-"Stephen F. Austin State University","Nacogdoches, Texas, United States",sfa
+"State University of New York at Oswego - SUNY","Oswego, New York, United States",Oswego
+"State University of New York at Potsdam - SUNY","Potsdam, New York, United States",Potsdam
+"Stephen F. Austin State University","Nacogdoches, Texas, United States",SFA
 "Stevens Institute of Technology","Hoboken, New Jersey, United States",stevens
-"Stony Brook University - SUNY","Stony Brook, New York, United States",sbu
+"Stony Brook University - SUNY","Stony Brook, New York, United States",SBU
 "Swansea University","Swansea, Wales, United Kingdom",swanseauni
-"Syracuse University","Syracuse, New York, United States",syracuseu
+"Syracuse University","Syracuse, New York, United States",SyracuseU
 "Tarleton State University","Stephenville, Texas, United States",tarleton
-"Taylor University","Upland, Indiana, United States",tayloruniversity
+"Taylor University","Upland, Indiana, United States",TaylorUniversity
 "Technische Universität Berlin","Berlin, Germany",tuberlin
 "Technische Universität Darmstadt","Darmstadt, Hessen, Germany",tud
 "Tecnológico de Costa Rica","Cartago, Costa Rica",teccr
 "Teesside University","Middlesbrough, England, United Kingdom",TeessideUniversity
-"Temple University","Philadelphia, Pennsylvania, United States",temple
+"Temple University","Philadelphia, Pennsylvania, United States",Temple
 "Tennessee State University","Nashville, Tennessee, United States",tsu
 "Texas A&M","College Station, Texas, United States",aggies
 "Texas Christian University","Fort Worth, Texas, United States",TCU
 "Texas State University","San Marcos, Texas, United States",txstate
-"Texas Tech University","Lubbock, Texas, United States",texastech
+"Texas Tech University","Lubbock, Texas, United States",TexasTech
 "The College of New Jersey","Ewing, New Jersey, United States",TCNJ
 "The College of William and Mary","Williamsburg, Virginia, United States",williamandmary
 "The Evergreen State College","Olympia, Washington, United States",evergreen
-"Thomas Edison State College","Trenton, New Jersey, United States",TESC
+"Thomas Edison State College","Trenton, New Jersey, United States",tesc
 "Touro University","Vallejo, California, United States",Touro
-"Towson University","Towson, Maryland, United States",towson
+"Towson University","Towson, Maryland, United States",Towson
 "Trent University","Peterborough, Ontario, Canada",TrentUniversity
 "Trinity College, Dublin","Dublin, Ireland",TCD
-"Trinity University","San Antonio, Texas, United States",TrinityU
+"Trinity University","San Antonio, Texas, United States",trinityu
 "Troy University","Troy, Alabama, United States",TroyU
 "Tufts University","Medford, Massachusetts, United States",Tufts
 "Tulane University","New Orleans, Louisiana, United States",Tulane
 "United States Naval Academy","Annapolis, Maryland, United States",usna
 "Universidad de Costa Rica","San Pedro Montes de Oca, San José, Costa Rica",ucrcr
 "Universidad de San Carlos de Guatemala","Guatemala City, Guatemala",USAC
-"University College London","London, England, United Kingdom",ucl
+"University College London","London, England, United Kingdom",UCL
 "University at Albany - SUNY","Albany, New York, United States",ualbany
-"University at Buffalo - SUNY","Buffalo, New York, United States",ubreddit
+"University at Buffalo - SUNY","Buffalo, New York, United States",UBreddit
 "University of Akron","Akron, Ohio, United States",uakron
 "University of Alabama","Tuscaloosa, Alabama, United States",capstone
-"University of Alabama at Birmingham","Birmingham, Alabama, United States",uab
-"University of Alabama at Huntsville","Huntsville, Alabama, United States",uah
-"University of Alberta","Edmonton, Alberta, Canada",ualberta
+"University of Alabama at Birmingham","Birmingham, Alabama, United States",UAB
+"University of Alabama at Huntsville","Huntsville, Alabama, United States",UAH
+"University of Alberta","Edmonton, Alberta, Canada",uAlberta
 "University of Arizona","Tucson, Arizona, United States",UofArizona
 "University of Arkansas","Fayetteville, Arkansas, United States of America",UniversityofArkansas
 "University of Baltimore","Baltimore, Maryland, United States",UBALTIMORE
@@ -356,14 +356,14 @@ name,location,subreddit
 "University of British Columbia Okanagan","Kelowna, British Columbia, Canada",ubco
 "University of Calgary","Calgary, Alberta, Canada",UCalgary
 "University of California - Berkeley","Berkeley, California, United States",berkeley
-"University of California - Davis","Davis, California, United States",ucdavis
-"University of California - Irvine","Irvine, California, United States",uci
+"University of California - Davis","Davis, California, United States",UCDavis
+"University of California - Irvine","Irvine, California, United States",UCI
 "University of California - Los Angeles","Los Angeles, California, United States",ucla
 "University of California - Merced","Merced, California, United States",ucmerced
 "University of California - Riverside","Riverside, California, United States",ucr
-"University of California - San Diego","San Diego, California, United States",ucsd
+"University of California - San Diego","San Diego, California, United States",UCSD
 "University of California - Santa Barbara","Santa Barbara, California, United States",UCSantaBarbara
-"University of California - Santa Cruz","Santa Cruz, California, United States",ucsc
+"University of California - Santa Cruz","Santa Cruz, California, United States",UCSC
 "University of Cambridge","Cambridge, England, United Kingdom",cambridge_uni
 "University of Cape Town","Cape Town, Western Cape, South Africa",UCT
 "University of Central Arkansas","Conway, Arkansas, United States",UCA
@@ -377,23 +377,23 @@ name,location,subreddit
 "University of Connecticut","Mansfield, Connecticut, United States",UCONN
 "University of Dayton","Dayton, Ohio, United States",uofdayton
 "University of Delaware","Newark, Delaware, United States",udel
-"University of Edinburgh","Edinburgh, Scotland, United Kingdom",uoe
+"University of Edinburgh","Edinburgh, Scotland, United Kingdom",UoE
 "University of Essex","Colchester, Essex, United Kingdom",essexuni
-"University of Exeter","Exeter, Devon, Tremough, Cornwall, England",exe
-"University of Florida","Gainesville, Florida, United States",UFL
+"University of Exeter","Exeter, Devon, Tremough, Cornwall, England",Exe
+"University of Florida","Gainesville, Florida, United States",ufl
 "University of Georgia","Athens, Georgia, United States",UGA
 "University of Guelph","Guelph, Ontario, Canada",uoguelph
 "University of Guelph-Humber","Etobicoke, Toronto, Ontario, Canada",guelphhumber
-"University of Hartford","West Hartford, Connecticut, United States",UHart
+"University of Hartford","West Hartford, Connecticut, United States",uhart
 "University of Hawaii","Honolulu, Hawaii, United States",UniversityofHawaii
 "University of Houston","Houston, Texas, United States",UniversityOfHouston
-"University of Houston-Downtown","Houston, Texas, United States",UHD
+"University of Houston-Downtown","Houston, Texas, United States",uhd
 "University of Idaho","Moscow, Idaho, United States",uofi
 "University of Illinois at Chicago","Chicago, Illinois, United States",uicwhatshot
-"University of Illinois at Urbana-Champaign","Urbana-Champaign, Illinois, United States",uiuc
+"University of Illinois at Urbana-Champaign","Urbana-Champaign, Illinois, United States",UIUC
 "University of Iowa","Iowa City, Iowa, United States",uiowa
 "University of Kansas","Lawrence, Kansas, United States",UniversityofKansas
-"University of Kentucky","Lexington, Kentucky, United States",universityofkentucky
+"University of Kentucky","Lexington, Kentucky, United States",UniversityofKentucky
 "University of Leeds","Leeds, West Yorkshire, England",LeedsUni
 "University of Limerick","Limerick, Ireland",universityoflimerick
 "University of Lincoln","Lincoln, Lincolnshire, England, United Kingdom",LincolnUni
@@ -408,18 +408,18 @@ name,location,subreddit
 "University of Massachusetts-Dartmouth","Dartmouth, Massachusetts, United States",umassd
 "University of Massachusetts-Lowell","Lowell, Massachusetts, United States",uml
 "University of Memphis","Memphis, Tennessee, United States",UofMemphis
-"University of Miami","Coral Gables, Florida, United States",umiami
+"University of Miami","Coral Gables, Florida, United States",UMiami
 "University of Michigan","Ann Arbor, Michigan, United States",uofm
 "University of Minnesota","Minneapolis, Minnesota, United States",uofmn
 "University of Minnesota Duluth","Duluth, Minnesota, United States",UofMnDuluth
 "University of Mississippi","Oxford, Mississippi, United States",olemiss
-"University of Missouri","Columbia, Missouri, United States",Mizzou
+"University of Missouri","Columbia, Missouri, United States",mizzou
 "University of Missouri: Kansas City","Kansas City, Missouri, United States",UMKC
 "University of Montana","Missoula, Montana, United States",UMT
 "University of Montevallo","Montevallo, Alabama, United States",Montevallo
 "University of Nebraska-Lincoln","Lincoln, Nebraska, United States",UNLincoln
 "University of Nevada, Las Vegas","Paradise, Nevada, United States",UNLV
-"University of Nevada, Reno","Reno, Nevada, United States",UNR
+"University of Nevada, Reno","Reno, Nevada, United States",unr
 "University of New Hampshire","Durham, New Hampshire, United States",unh
 "University of New Mexico","Albuquerque, New Mexico, United States",unm
 "University of New South Wales","Kensington, Paddington, New South Wales, Australia",unsw
@@ -429,29 +429,29 @@ name,location,subreddit
 "University of North Carolina Wilmington","Wilmington, North Carolina, United States",UNCW
 "University of North Dakota","Grand Forks, North Dakota, United States",und
 "University of North Florida","Jacksonville, Florida, United States",UNF
-"University of North Texas","Denton, Texas, United States",UNT
+"University of North Texas","Denton, Texas, United States",unt
 "University of Northern British Columbia","Prince George, British Columbia, Canada",UNBC
-"University of Northern Iowa","Cedar Falls, Iowa, United States",uni
+"University of Northern Iowa","Cedar Falls, Iowa, United States",UNI
 "University of Notre Dame","Notre Dame, Indiana, United States",notredame
 "University of Oklahoma","Norman, Oklahoma, United States",sooners
 "University of Ontario Institute of Technology","Oshawa, Ontario, Canada",uoit
 "University of Ottawa","Ottawa, Ontario, Canada",geegees
 "University of Oxford","Oxford, England, United Kingdom",oxforduni
-"University of Pennsylvania","Philadelphia, Pennsylvania, United States",upenn
+"University of Pennsylvania","Philadelphia, Pennsylvania, United States",UPenn
 "University of Pisa","Pisa, Italy",unipi
 "University of Pittsburgh","Pittsburgh, Pennsylvania, United States",Pitt
-"University of Queensland","Brisbane, Queensland, Australia",uqreddit
+"University of Queensland","Brisbane, Queensland, Australia",UQreddit
 "University of Redlands","Redlands, California, United States",universityofredlands
 "University of Regina","Regina, Saskatchewan, Canada",University_Of_Regina
-"University of Rochester","Rochester, New York, United States",urochester
+"University of Rochester","Rochester, New York, United States",URochester
 "University of Saint Andrews","St Andrews, Fife, Scotland",standrews
 "University of San Diego","San Diego, California, United States",toreros
 "University of San Francisco","San Francisco, California, United States",usfca
 "University of Saskatchewan","Saskatoon, Saskatchewan, Canada",usask
 "University of Scranton","Scranton, Pennsylvania, United States",universityofscranton
 "University of Sheffield","Sheffield, South Yorkshire, England, United Kingdom",uos
-"University of South Carolina","Columbia, South Carolina, United States",gamecocks
-"University of South Florida","Tampa, Florida, United States",usf
+"University of South Carolina","Columbia, South Carolina, United States",Gamecocks
+"University of South Florida","Tampa, Florida, United States",USF
 "University of Southern California","Los Angeles, California, United States",USC
 "University of Southern Indiana","Vanderburgh County, Indiana, United States",USI
 "University of St. Thomas","Houston, Texas, United States",stthomas
@@ -476,14 +476,14 @@ name,location,subreddit
 "University of Washington","Seattle, Washington, United States",udub
 "University of Washington | Bothell","Bothell, Washington, United States",uwb
 "University of Waterloo","Waterloo, Ontario, Canada",uwaterloo
-"University of West Georgia","Carrollton, Georgia, United States",uwg
+"University of West Georgia","Carrollton, Georgia, United States",UWG
 "University of Western Ontario","London, Ontario, Canada",uwo
-"University of Windsor","Windsor, Ontario, Canada",uwindsor
-"University of Wisconsin - Eau Claire","Eau Claire, Wisconsin, United States",uweauclaire
+"University of Windsor","Windsor, Ontario, Canada",UWindsor
+"University of Wisconsin - Eau Claire","Eau Claire, Wisconsin, United States",UWEauClaire
 "University of Wisconsin Green Bay","Green Bay, Wisconsin, United States",uwgb
 "University of Wisconsin Madison","Madison, Wisconsin, United States",UWMadison
 "University of Wisconsin Milwaukee","Milwaukee, Wisconsin, United States",UWMilwaukee
-"University of Wisconsin Oshkosh","Oshkosh, Wisconsin, United States",uwoshkosh
+"University of Wisconsin Oshkosh","Oshkosh, Wisconsin, United States",UWOshkosh
 "University of Wisconsin Whitewater","Whitewater, Wisconsin, United States",UWWhitewater
 "University of Wollongong","Wollongong, New South Wales, Australia",UOW
 "University of Wyoming","Laramie, Wyoming, United States",uwyo
@@ -494,40 +494,40 @@ name,location,subreddit
 "Université de Montréal","Montréal, Québec, Canada",UdeM
 "Université de Sherbrooke","Sherbrooke, Québec, Canada",usherbrooke
 "Université du Québec à Montréal","Montréal, Québec, Canada",UQAM
-"Utah Valley University","Orem, Utah, United States",uvu
+"Utah Valley University","Orem, Utah, United States",UVU
 "Vancouver Island University","Nanaimo, British Columbia, Canada",VIU
 "Vanderbilt University","Nashville, Tennessee, United States",Vanderbilt
-"Vassar College","Poughkeepsie, New York, United States",Vassar
+"Vassar College","Poughkeepsie, New York, United States",vassar
 "Ventura County Community Colleges","Ventura, California, United States",vcccd
-"Villanova University","Villanova, Pennsylvania, United States",Villanova
-"Virginia Commonwealth University","Richmond, Virginia, United States",VCU
+"Villanova University","Villanova, Pennsylvania, United States",villanova
+"Virginia Commonwealth University","Richmond, Virginia, United States",vcu
 "Virginia Tech","Blacksburg, Virginia, United States",VirginiaTech
-"Vrije Universiteit Brussel","Brussels, Belgium",VUB
+"Vrije Universiteit Brussel","Brussels, Belgium",vub
 "Wake Forest University","Winston-Salem, North Carolina, United States",wfu
 "Wake Technical Community College","Raleigh, North Carolina, United States",WakeTech
 "Washington State University","Pullman, Washington, United States",wsu
 "Washington University in St. Louis","St. Louis, Missouri, United States",washu
 "Wayne State University","Detroit, Michigan, United States",waynestate
-"Wellesley College","Wellesley, Massachusetts, United States",wellesleycollege
+"Wellesley College","Wellesley, Massachusetts, United States",WellesleyCollege
 "Wentworth Institute of Technology","Boston, Massachusetts, United States",WIT
-"Wesleyan University","Middletown, Connecticut, United States",wesleyan
+"Wesleyan University","Middletown, Connecticut, United States",Wesleyan
 "West Chester University","West Chester, Pennsylvania, United States",wcupa
 "West Liberty University","West Liberty, West Virginia, United States",westliberty
 "West Texas A&M University","Canyon, Texas, United States",wtamu
 "West Virginia Univeristy","Morgantown, West Virginia, United States",WVU
-"Western Carolina University","Cullowhee, North Carolina, United States",wcu
-"Western Connecticut State University","Danbury, Connecticut, United States",wcsu
+"Western Carolina University","Cullowhee, North Carolina, United States",WCU
+"Western Connecticut State University","Danbury, Connecticut, United States",Wcsu
 "Western Governors University","Salt Lake City, Utah, United States",WGU
 "Western Kentucky University","Bowling Green, Kentucky, United States",WKU
 "Western Washington University","Bellingham, Washington, United States",WWU
 "Westminster College SLC","Salt Lake City, Utah, United States",WestminsterCollege
 "Westmont College In Santa Barbara","Santa Barbara, California, United States",Westmont
-"Wheaton College","Wheaton, Illinois, United States",wheaton
-"Widener University","Chester, Pennsylvania, United States",widener
+"Wheaton College","Wheaton, Illinois, United States",Wheaton
+"Widener University","Chester, Pennsylvania, United States",Widener
 "Wilfrid Laurier University","Waterloo, Ontario, Canada",wlu
 "William Woods University","Fulton, Missouri, United States",WoodsWay
-"Williams College","Williamstown, Massachusetts, United States",williamscollege
-"Worcester Polytechnic Institute","Worcester, Massachusetts, United States",wpi
+"Williams College","Williamstown, Massachusetts, United States",WilliamsCollege
+"Worcester Polytechnic Institute","Worcester, Massachusetts, United States",WPI
 "Wright State University","Fairborn, Ohio, United States",wrightstate
 "Yale University","New Haven, Connecticut, United States",yale
 "York University in Toronto","Toronto, Ontario, Canada",yorku

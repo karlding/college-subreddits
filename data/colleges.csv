@@ -88,7 +88,7 @@ name,location,subreddit
 "Curtin University","Bentley, Western Australia, Australia",curtin
 "Dalhousie University","Halifax, Nova Scotia, Canada",Dalhousie
 "Dartmouth College","Hanover, New Hampshire, United States",dartmouth
-"Davidson College","Davidson, North Carolina, United States",davidsoncollege
+"Davidson College","Davidson, North Carolina, United States",davidson
 "DePauw University","Greencastle, Indiana, United States",DePauw
 "DeVry University","Downers Grove, Illinois, United States",devry
 "Deakin University","Geelong, Victoria, Australia",deakin
@@ -113,7 +113,7 @@ name,location,subreddit
 "Flagler College","St. Augustine, Florida, United States",flaglercollege
 "Florida Atlantic University","Boca Raton, Florida, United States",FAU
 "Florida Gulf Coast University","Unincorporated Lee County, Florida, United States",fgcu
-"Florida Institute of Technology","Melbourne, Florida, United States",fit
+"Florida Institute of Technology","Melbourne, Florida, United States",floridatech
 "Florida International University","University Park, Florida, United States",FIU
 "Florida State University","Tallahassee, Florida, United States",fsu
 "Folsom Lake College","Folsom, California, United States",FLC
@@ -182,7 +182,7 @@ name,location,subreddit
 "Louisiana State University","Baton Rouge, Louisiana, United States",LSU
 "Louisiana Tech University","Ruston, Louisiana, United States",LouisianaTech
 "Loyola Marymount University","Los Angeles, California, United States",LMU
-"Luther College Iowa","Decorah, Iowa, United States",luther
+"Luther College Iowa","Decorah, Iowa, United States",Decorah
 "Lyon College","Batesville, Arkansas, United States",LyonCollege
 "Macon State College","Macon, Georgia, United States",Macon_State
 "Macquarie University","Sydney, New South Wales, Australia",MacUni
@@ -277,7 +277,7 @@ name,location,subreddit
 "Saginaw Valley State University","University Center, Michigan, United States",SVSU
 "Saint Edwards University","Austin, Texas, United States",stedwards
 "Saint Francis Xavier University","Antigonish, Nova Scotia, Canada",stfx
-"Saint Joseph's University","Philadelphia, Pennsylvania, United States",sju
+"Saint Joseph's University","Philadelphia, Pennsylvania, United States",THWND
 "Saint Louis University","St. Louis, Missouri, United States",billikens
 "Saint Mary's University","Halifax, Nova Scotia, Canada",SMUHalifax
 "Saint Olaf College","Northfield, Minnesota, United States",stolaf
@@ -334,7 +334,7 @@ name,location,subreddit
 "The College of New Jersey","Ewing, New Jersey, United States",TCNJ
 "The College of William and Mary","Williamsburg, Virginia, United States",williamandmary
 "The Evergreen State College","Olympia, Washington, United States",evergreen
-"Thomas Edison State College","Trenton, New Jersey, United States",tesc
+"Thomas Edison State University","Trenton, New Jersey, United States",tesu
 "Touro University","Vallejo, California, United States",Touro
 "Towson University","Towson, Maryland, United States",Towson
 "Trent University","Peterborough, Ontario, Canada",TrentUniversity
@@ -398,7 +398,7 @@ name,location,subreddit
 "University of Houston","Houston, Texas, United States",UniversityOfHouston
 "University of Houston-Downtown","Houston, Texas, United States",uhd
 "University of Idaho","Moscow, Idaho, United States",uofi
-"University of Illinois at Chicago","Chicago, Illinois, United States",uicwhatshot
+"University of Illinois at Chicago","Chicago, Illinois, United States",uichicago
 "University of Illinois at Urbana-Champaign","Urbana-Champaign, Illinois, United States",UIUC
 "University of Iowa","Iowa City, Iowa, United States",uiowa
 "University of Kansas","Lawrence, Kansas, United States",UniversityofKansas
@@ -407,7 +407,7 @@ name,location,subreddit
 "University of Leeds","Leeds, West Yorkshire, England",LeedsUni
 "University of Limerick","Limerick, Ireland",universityoflimerick
 "University of Lincoln","Lincoln, Lincolnshire, England, United Kingdom",LincolnUni
-"University of Louisiana-Lafayette","Lafayette, Louisiana, United States",ull
+"University of Louisiana-Lafayette","Lafayette, Louisiana, United States",ragincajuns
 "University of Louisville","Louisville, Kentucky, United States",AllHail
 "University of Maine","Orono, Maine, United States",umaine
 "University of Manitoba","Winnipeg, Manitoba, Canada",umanitoba
@@ -456,7 +456,7 @@ name,location,subreddit
 "University of Regina","Regina, Saskatchewan, Canada",University_Of_Regina
 "University of Rochester","Rochester, New York, United States",URochester
 "University of Saint Andrews","St Andrews, Fife, Scotland",standrews
-"University of San Diego","San Diego, California, United States",toreros
+"University of San Diego","San Diego, California, United States",USD
 "University of San Francisco","San Francisco, California, United States",usfca
 "University of Saskatchewan","Saskatoon, Saskatchewan, Canada",usask
 "University of Scranton","Scranton, Pennsylvania, United States",universityofscranton

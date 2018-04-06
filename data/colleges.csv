@@ -103,6 +103,7 @@ name,location,subreddit
 "Drexel University","Philadelphia, Pennsylvania, United States",Drexel
 "Duke University","Durham, North Carolina, United States",duke
 "Durham College","Oshawa, Ontario, Canada",durhamcollege
+"Durham University","Durham, England, United Kingdom",Durhamu
 "Earlham College","Richmond, Indiana, United States",EarlhamCollege
 "East Carolina University","Greenville, North Carolina, United States",ECU
 "East Tennessee State University","Johnson City, Tennessee, United States",ETSU
@@ -150,6 +151,7 @@ name,location,subreddit
 "Harvard University","Cambridge, Massachusetts, United States",Harvard
 "Harvey Mudd College","Claremont, California, United States",harveymudd
 "Henderson State University","Arkadelphia, Arkansas, United States",HendersonState
+"Heriot-Watt University","Edinburgh, Scotland, United Kingdom",heriotwatt
 "Hillsdale College","Hillsdale, Michigan, United States",hillsdale
 "Houston Community College","Houston, Texas, United States.",houstoncc
 "Humber College","Toronto, Ontario, Canada",Humber
@@ -177,13 +179,16 @@ name,location,subreddit
 "Kent State University","Kent, Ohio, United States",KentStateUniversity
 "Kettering University","Flint, Michigan, United States",Kettering
 "King's College - London","London, England, United Kingdom",KCL
+"Kingston University London","Kingston upon Thames, London, United Kingdom",kingstonu
 "Kutztown University of Pennsylvania","Kutztown, Pennsylvania, United States",kutztown
 "Lakehead University","Thunder Bay, Ontario, Canada",lakeheadu
 "Langara College","Vancouver, British Columbia, Canada",langara
 "Lawrence University","Appleton, Wisconsin, United States",lawrenceu
+"Leeds Beckett University","Leeds, England, United Kingdom",leedsbeckett
 "Lehigh University","Bethlehem, Pennsylvania, United States",Lehigh
 "Liberty University","Lynchburg, Virginia, United States",LibertyUniversity
 "Linköping University","Linköping, Sweden",linkopinguniversity
+"London School of Economics","London, England, United Kingdom",TheLse
 "Longwood University","Farmville, Virginia, United States",Longwood
 "Loughborough University","Loughborough, Leicestershire, England",lufbra
 "Louisiana State University","Baton Rouge, Louisiana, United States",LSU
@@ -250,6 +255,7 @@ name,location,subreddit
 "Oklahoma State University","Tulsa, Oklahoma, United States",OKState
 "Old Dominion University","Norfolk, Virginia, United States",ODU
 "Olin College","Needham, Massachusetts, United States",olin
+"Open University","Milton Keynes, England, United Kingdom",OpenUniversity
 "Orange Coast College","Costa Mesa, California, United States",OCC
 "Oregon State University","Corvallis, Oregon, United States",OregonStateUniv
 "Otterbein College","Westerville, Ohio, United States",Otterbein
@@ -284,6 +290,7 @@ name,location,subreddit
 "Roosevelt University","Chicago, Illinois, United States",Roosevelt
 "Rose Hulman Institue","Terre Haute, Indiana, United States",rosehulman
 "Rowan University","Glassboro, New Jersey, United States",RowanUniversity
+"Royal Holloway, University of London","Egham, England, United Kingdom",RHUL
 "Rutgers University","New Brunswick, New Jersey, United States",rutgers
 "Ryerson University","Toronto, Ontario, Canada",ryerson
 "Saginaw Valley State University","University Center, Michigan, United States",SVSU
@@ -306,6 +313,7 @@ name,location,subreddit
 "Seattle University","Seattle, Washington, United States",seattleu
 "Seneca College","Toronto, Ontario, Canada",Seneca
 "Seton Hall University","South Orange, New Jersey, United States",SHU
+"Sheffield Hallam University","Sheffield, England, United Kingdom",sheffieldhallam
 "Sheridan College","Oakville, Ontario, Canada",sheridan
 "Shippensburg University","Shippensburg, Pennsylvania, United States",ship
 "Siena College","Loudonville, New York, United States",siena
@@ -371,6 +379,7 @@ name,location,subreddit
 "University of Arkansas","Fayetteville, Arkansas, United States of America",UniversityofArkansas
 "University of Auckland","Auckland, New Zealand",universityofauckland
 "University of Baltimore","Baltimore, Maryland, United States",UBALTIMORE
+"University of Bath","Bath, Somerset, United Kingdom",BathUni
 "University of Birmingham","Birmingham, West Midlands, United Kingdom",UofB
 "University of Bristol","Bristol, England, United Kingdom",UOB
 "University of British Columbia","Vancouver, British Columbia, Canada",UBC
@@ -399,6 +408,7 @@ name,location,subreddit
 "University of Dayton","Dayton, Ohio, United States",uofdayton
 "University of Delaware","Newark, Delaware, United States",udel
 "University of Denver","Denver, Colorado, United States",denveru
+"University of East Anglia","Norwich, England, United Kingdom",UEA
 "University of Edinburgh","Edinburgh, Scotland, United Kingdom",Edinburgh_University
 "University of Essex","Colchester, Essex, United Kingdom",essexuni
 "University of Exeter","Exeter, Devon, Tremough, Cornwall, England",Exe
@@ -417,14 +427,17 @@ name,location,subreddit
 "University of Illinois at Urbana-Champaign","Urbana-Champaign, Illinois, United States",UIUC
 "University of Iowa","Iowa City, Iowa, United States",uiowa
 "University of Kansas","Lawrence, Kansas, United States",UniversityofKansas
+"University of Kent","Kent, England, United Kingdom",KentUni
 "University of Kentucky","Lexington, Kentucky, United States",UniversityofKentucky
 "University of Lancaster","Lancashire, England, United Kingdom",lancasteruni
 "University of Leeds","Leeds, West Yorkshire, England",LeedsUni
+"University of Leicester","Leicester, England, United Kingdom",UoL
 "University of Limerick","Limerick, Ireland",universityoflimerick
 "University of Lincoln","Lincoln, Lincolnshire, England, United Kingdom",LincolnUni
 "University of Louisiana-Lafayette","Lafayette, Louisiana, United States",ragincajuns
 "University of Louisville","Louisville, Kentucky, United States",AllHail
 "University of Maine","Orono, Maine, United States",umaine
+"University of Manchester","Manchester, England, United Kingdom",manchester_uni
 "University of Manitoba","Winnipeg, Manitoba, Canada",umanitoba
 "University of Mary Washington","Fredericksburg, VA, United States",UMW
 "University of Maryland","College Park, Maryland, United States",UMD
@@ -460,6 +473,7 @@ name,location,subreddit
 "University of Northern British Columbia","Prince George, British Columbia, Canada",UNBC
 "University of Northern Iowa","Cedar Falls, Iowa, United States",UNI
 "University of Notre Dame","Notre Dame, Indiana, United States",notredame
+"University of Nottingham","Nottingham, England, United Kingdom",UoN
 "University of Oklahoma","Norman, Oklahoma, United States",sooners
 "University of Ontario Institute of Technology","Oshawa, Ontario, Canada",uoit
 "University of Ottawa","Ottawa, Ontario, Canada",geegees
@@ -471,6 +485,7 @@ name,location,subreddit
 "University of Redlands","Redlands, California, United States",universityofredlands
 "University of Regina","Regina, Saskatchewan, Canada",University_Of_Regina
 "University of Rochester","Rochester, New York, United States",URochester
+"University of Roehampton","London, England, United Kingdom",roehamptonuni
 "University of Saint Andrews","St Andrews, Fife, Scotland",standrews
 "University of San Diego","San Diego, California, United States",USD
 "University of San Francisco","San Francisco, California, United States",usfca
@@ -483,6 +498,7 @@ name,location,subreddit
 "University of Southern Indiana","Vanderburgh County, Indiana, United States",USI
 "University of St. Thomas","Houston, Texas, United States",stthomas
 "University of Strathclyde","Glasgow, Scotland, United Kingdom",strathclyde
+"University of Sussex","Brighton, England, United Kingdom",universityofsussex
 "University of Sydney","Sydney, New South Wales, Australia",usyd
 "University of Technology Sydney","Sydney, New South Wales, Australia",UTS
 "University of Tennessee - Knoxville","Knoxville, Tennessee, United States",UTK
@@ -506,6 +522,7 @@ name,location,subreddit
 "University of West Georgia","Carrollton, Georgia, United States",UWG
 "University of Western Australia","Perth, Western Australia, Australia",uwa
 "University of Western Ontario","London, Ontario, Canada",uwo
+"University of Westminster","London, England, United Kingdom",WestminsterUni
 "University of Windsor","Windsor, Ontario, Canada",UWindsor
 "University of Wisconsin - Eau Claire","Eau Claire, Wisconsin, United States",UWEauClaire
 "University of Wisconsin Green Bay","Green Bay, Wisconsin, United States",uwgb
@@ -519,6 +536,7 @@ name,location,subreddit
 "University of the Fraser Valley","Abbotsford, British Columbia, Canada",UFV
 "University of the Pacific","Stockton, California, United States",UoP
 "University of the Philippines","Quezon City, Philippines",peyups
+"University of the West of England, Bristol","Bristol, England, United Kingdom",uwe
 "Université de Montréal","Montréal, Québec, Canada",UdeM
 "Université de Sherbrooke","Sherbrooke, Québec, Canada",usherbrooke
 "Université du Québec à Montréal","Montréal, Québec, Canada",UQAM
